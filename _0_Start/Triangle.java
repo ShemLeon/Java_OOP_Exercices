@@ -9,6 +9,7 @@ public class Triangle {
         this.c = c;
     }
 
+
     public double getA() {
         return a;
     }
