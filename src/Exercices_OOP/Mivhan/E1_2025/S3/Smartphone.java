@@ -1,6 +1,6 @@
 package Exercices_OOP.Mivhan.E1_2025.S3;
 
-public class Smartphone extends Device{
+public class Smartphone extends Device {
         private int cameraMP;
         public Smartphone(String brand, Double price){
             super(brand, price);
@@ -22,7 +22,7 @@ public class Smartphone extends Device{
         }
 
         public void setWarranty(int years){
-            warrantyYears = Math.min(Device.warrantyYears, years);
+            warrantyYears = Math.min(warrantyYears, years);
         }
 
         public void display(){
@@ -37,7 +37,7 @@ public class Smartphone extends Device{
             for(Object obj : arr) {
                 if(obj instanceof Device) {
                     ((Device)obj).display();
-                    Device.warrantyYears += 2;
+                    warrantyYears += 2;
                     
                     if(obj instanceof Smartphone) {
                         sum += ((Smartphone)obj).totalSpecs();
@@ -62,7 +62,7 @@ public class Smartphone extends Device{
             Object[] arr = {d1, d2, d3, s1, "test", 42};
             System.out.println("Result: " + what(arr));
 
-            Device.warrantyYears = 3;          // Устанавливаем статическую переменную warrantyYears в 3
+            warrantyYears = 3;          // Устанавливаем статическую переменную warrantyYears в 3
             Smartphone phone1 = new Smartphone("Apple", 999.99); // Создаем первый смартфон
             Smartphone phone2 = new Smartphone(32); // Создаем второй смартфон с камерой 32MP
             phone2.setWarranty(5); 

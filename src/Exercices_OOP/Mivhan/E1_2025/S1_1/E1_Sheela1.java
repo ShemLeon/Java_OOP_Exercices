@@ -1,4 +1,4 @@
-package Exercices.EX1.Mivhan.E1_2025.S1_1;
+package Exercices_OOP.Mivhan.E1_2025.S1_1;
 
 class A{
     private int x;
