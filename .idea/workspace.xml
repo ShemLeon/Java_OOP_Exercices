@@ -5,160 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Abstract">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Exercices_OOP.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_OOP_Exercices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/maarah/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/maarah/Pixel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/maarah/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Priangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/overloading/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/overloading/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/ClassMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/Kids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercices_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercices_OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mivhan/E1_2025/E1_Sheela2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E1_2025/E1_Sheela2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mivhan/E1_2025/E1_Sheela3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E1_2025/E1_Sheela3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mivhan/E1_2025/E1_Sheela4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E1_2025/E1_Sheela4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mivhan/E1_2025/S1_1/E1_Sheela1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E1_2025/S1_1/E1_Sheela1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mivhan/E1_2025/S3/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E1_2025/S3/Device.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mivhan/E1_2025/S3/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E1_2025/S3/Smartphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mivhan/E2_2025/Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/Cards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_0_Start/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_0_Start/Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_0_Start/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_0_Start/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_0_Start/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_0_Start/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1_OverLoading/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_1_OverLoading/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_1_OverLoading/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_1_OverLoading/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_2_Murkavim/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_2_Murkavim/Priangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Priangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_2_Murkavim/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_2_Murkavim/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3_Static/ClassMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_3_Static/ClassMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3_Static/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_3_Static/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3_Static/Kids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_3_Static/Kids.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3_Static/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_3_Static/Line.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3_Static/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_3_Static/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3_Static/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_3_Static/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_4_Maarah/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_4_Maarah/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_4_Maarah/Pixel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_4_Maarah/Pixel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_4_Maarah/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_4_Maarah/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Erusha/AB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/AB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Erusha/Circles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Circles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Erusha/Final/ChessAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Final/ChessAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Erusha/Final/Final_t1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Final/Final_t1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Polymorphism/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/Cars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Polymorphism/Ex8_5_Matos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/Ex8_5_Matos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Polymorphism/T1_SummarySemestrA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/T1_SummarySemestrA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Polymorphism/T2_SummarySemestrA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/T2_SummarySemestrA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Polymorphism/T5_SummarySemestrA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/T5_SummarySemestrA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_7_Abstract/t1_Shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_7_Abstract/t1_Shapes/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Rect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_7_Abstract/t1_Shapes/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Shhape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_7_Abstract/t2_Persons/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t2_Persons/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_7_Abstract/t2_Persons/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t2_Persons/Record.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_7_Abstract/t3_TestAbstract/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t3_TestAbstract/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices/EX1/Mivhan/E1_2025/S1_1/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices/EX1/Mivhan/E1_2025/S1_1/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices/EX1/Mivhan/E1_2025/S1_1/E1_Sheela1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Exercices_OOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/E1_Sheela2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/E1_Sheela3$MultyTav.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/E1_Sheela3$Tav.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/E1_Sheela3$TwoTav.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/E1_Sheela3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/S3/Device.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E1_2025/S3/Smartphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/Cards.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/Goblin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_0_Start/Clock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_0_Start/Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_0_Start/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_1_OverLoading/Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_1_OverLoading/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Kita.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Message.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Priangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/School.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_3_Static/ClassMember.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_3_Static/Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_3_Static/Kids.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_3_Static/Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_3_Static/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_3_Static/TestRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_4_Maarah/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_4_Maarah/Picture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_4_Maarah/Pixel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_4_Maarah/ReportCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_4_Maarah/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_4_Maarah/TestReportCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_4_Maarah/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/AB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Circles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Cone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Cylinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Final/ChessAlgorithm$ChessPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Final/ChessAlgorithm$Final_t2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Final/ChessAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Final/Final_t1$DeadMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Final/Final_t1$RegularCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Final/Final_t1$SportsCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Final/Final_t1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/AccountA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/AccountB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/AirForceFleet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/BabyToy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/CarShop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/CargoPlane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/FightPlane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/HilPlane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/Par.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/Passport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/PazelToy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/Plane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/SportPar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/Store.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/T1_SummarySemestrA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/T2_SummarySemestrA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/T5_SummarySemestrA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/ThinkToy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/TowTruck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/Toy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/Traveler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_6_Polymorphism/Warehouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_1_Shapes/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_1_Shapes/Rect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_1_Shapes/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_2_Persons/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_2_Persons/Record.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_3_TestAbstract/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_3_TestAbstract/Testabstract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_3_TestAbstract/Two.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Flat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,36 +49,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.AB.executor": "Run",
-    "Application.CarShop.executor": "Run",
-    "Application.ChessAlgorithm.executor": "Run",
-    "Application.Circle.executor": "Run",
-    "Application.Clock.executor": "Run",
-    "Application.Final_t1.executor": "Run",
-    "Application.Kids.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Message.executor": "Run",
-    "Application.Point.executor": "Run",
-    "Application.Record.executor": "Run",
-    "Application.Shape.executor": "Run",
-    "Application.Shhape.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Testabstract.executor": "Run",
-    "Application._7_Abstract.t3_TestAbstract.Testabstract.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Ucheba/Exercices_OOP/src/Exercices_OOP",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Building.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChessAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Final_t1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kids.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Message.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Point.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Record.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shhape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Testabstract.executor&quot;: &quot;Run&quot;,
+    &quot;Application._7_Abstract.t3_TestAbstract.Testabstract.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Ucheba/Exercices_OOP/src/Exercices_OOP&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP" />
@@ -366,12 +216,45 @@
       <option name="project" value="LOCAL" />
       <updated>1743971352314</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Abstract">
+      <option name="closed" value="true" />
+      <created>1744015387379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744015387379</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Abstract">
+      <option name="closed" value="true" />
+      <created>1744015399363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744015399363</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Abstract">
+      <option name="closed" value="true" />
+      <created>1744015445065</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744015445065</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Abstract">
+      <option name="closed" value="true" />
+      <created>1744015502680</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744015502680</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Abstract" />
     <option name="LAST_COMMIT_MESSAGE" value="Abstract" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
