@@ -1,7 +1,6 @@
 package Exercices_OOP._7_Abstract.t4_Halumot;
 
 
-
 public class Flat{
     private int numFlat;
     private int numFloor;

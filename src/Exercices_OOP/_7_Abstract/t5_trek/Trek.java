@@ -1,14 +1,11 @@
 package Exercices_OOP._7_Abstract.t5_trek;
+import unit4.collectionsLib.Node;
 
-// מגישים:
-// יבגני נמצ'נקו 321404634
-// שמיאקין לאוניד 336540331
-// כיתה 48-5
 
 public abstract class Trek {
-    private final String name;
-    private final String location;
-    private final int duration;
+    private String name;
+    private String location;
+    private int duration;
 
     public Trek(String name, String location, int duration) {
         this.name = name;
@@ -36,24 +33,5 @@ public abstract class Trek {
             equipment = equipment.getNext();
         }
         System.out.println();
-    }
-
-    // Геттеры для доступа к приватным полям
-    public String getName() {
-        return name;
-    }
-
-    public String getLocation() {
-        return location;
-    }
-
-    public int getDuration() {
-        return duration;
-    }
-
-    public static void main(String[] args) {
-        //
-        System.out.println("Shalom!");
-        //
     }
 }

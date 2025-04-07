@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Flats">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/unit4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/Trek.java" afterDir="false" />
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Trek">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercices_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercices_OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/_7_Abstract/t3_TestAbstract/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/_7_Abstract/t3_TestAbstract/Testabstract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/_7_Abstract/t3_TestAbstract/Two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t3_TestAbstract/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t3_TestAbstract/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Flat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Flat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/Trek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/Trek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +93,7 @@
       <recent name="_2_Murkavim" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._7_Abstract.t3_TestAbstract.Testabstract">
+  <component name="RunManager">
     <configuration name="CarShop" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="jbr-21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -264,14 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744020031757</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Flats">
+      <option name="closed" value="true" />
+      <created>1744033083678</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744033083678</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Abstract" />
     <MESSAGE value="Flats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flats" />
+    <MESSAGE value="Trek" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trek" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
