@@ -1,4 +1,4 @@
-package _7_Abstract.t3_TestAbstract;
+package Exercices_OOP._7_Abstract.t3_TestAbstract;
 
 
 public abstract class One {

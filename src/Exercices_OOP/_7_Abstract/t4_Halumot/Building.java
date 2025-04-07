@@ -1,7 +1,5 @@
 package Exercices_OOP._7_Abstract.t4_Halumot;
 
-
-
 public class Building {
     private int floors;
     private int countFlats;
