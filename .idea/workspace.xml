@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Trek">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Duplex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Duplex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Flat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Flat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Garden.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Garden.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Flat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Flat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,68 +99,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="CarShop" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="jbr-21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="envFilePaths">
-        <option value="$PROJECT_DIR$" />
-      </option>
-      <option name="MAIN_CLASS_NAME" value="Exercices_OOP._6_Polymorphism.CarShop" />
-      <module name="Java_OOP_Exercices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercices_OOP._6_Polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Exercices_OOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="jbr-21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Exercices_OOP._6_Polymorphism.Test" />
-      <module name="Java_OOP_Exercices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercices_OOP._6_Polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Testabstract" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercices_OOP._7_Abstract.t3_TestAbstract.Testabstract" />
-      <module name="Java_OOP_Exercices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercices_OOP._7_Abstract.t3_TestAbstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_7_Abstract.t3_TestAbstract.Testabstract" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_7_Abstract.t3_TestAbstract.Testabstract" />
-      <module name="Exercices_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_7_Abstract.t3_TestAbstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -272,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744058041249</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Trek">
+      <option name="closed" value="true" />
+      <created>1744058123258</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1744058123258</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

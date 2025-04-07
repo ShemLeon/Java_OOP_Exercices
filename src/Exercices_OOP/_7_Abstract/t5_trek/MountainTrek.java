@@ -2,7 +2,7 @@ package Exercices_OOP._7_Abstract.t5_trek;
 import unit4.collectionsLib.Node;
 
 public class MountainTrek extends Trek {
-    private int maxAltitude; // максимальная высота тура в метрах
+    private int maxAltitude; // maximum altitude of the trek in meters
 
     public MountainTrek(String name, String location, int duration, int maxAltitude) {
         super(name, location, duration);
@@ -10,8 +10,8 @@ public class MountainTrek extends Trek {
     }
 
     /**
-     * Возвращает уровень сложности горного тура - всегда "Hard"
-     * @return строка "Hard"
+     * Returns the difficulty level of the mountain trek - always "Hard"
+     * @return string "Hard"
      */
     @Override
     public String getDifficulty() {
@@ -19,26 +19,26 @@ public class MountainTrek extends Trek {
     }
 
     /**
-     * Возвращает список необходимого снаряжения для горного тура
-     * @return список снаряжения в виде связного списка
+     * Returns the list of required equipment for mountain trek
+     * @return equipment list as a linked list
      */
     @Override
     public Node<String> getRequiredEquipment() {
-        // Создаем список снаряжения для горного тура
+        // Create equipment list for mountain trek
         return new Node<>("Warm coat", new Node<>("Walking sticks", new Node<>("Climbing shoes")));
     }
 
     /**
-     * Получить максимальную высоту тура
-     * @return максимальная высота в метрах
+     * Get the maximum altitude of the trek
+     * @return maximum altitude in meters
      */
     public int getMaxAltitude() {
         return maxAltitude;
     }
 
     /**
-     * Установить максимальную высоту тура
-     * @param maxAltitude новая максимальная высота в метрах
+     * Set the maximum altitude of the trek
+     * @param maxAltitude new maximum altitude in meters
      */
     public void setMaxAltitude(int maxAltitude) {
         this.maxAltitude = maxAltitude;

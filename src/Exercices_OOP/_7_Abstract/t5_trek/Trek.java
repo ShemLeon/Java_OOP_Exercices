@@ -13,13 +13,13 @@ public abstract class Trek {
         this.duration = duration;
     }
 
-    // Возвращает уровень сложности тура
+    // Returns the difficulty level of the trek
     public abstract String getDifficulty();
 
-    // Возвращает список необходимого снаряжения
+    // Returns the list of required equipment
     public abstract Node<String> getRequiredEquipment();
 
-    // Выводит детали тура
+    // Prints trek details
     public void printDetails() {
         System.out.println("Name: " + name);
         System.out.println("Location: " + location);
