@@ -41,11 +41,11 @@ public class Building {
     }
 
     public static void main(String[] args) {
-        Simple s1 = new Simple(1,1,3,3000,true,3);
-        Simple s2 = new Simple(1,1,3,3000,true,0);
-        Simple s3 = new Simple(1,1,3,4000,true,0);
-        Garden g1 = new Garden(2,1,3,3000, true, 200);
-        Duplex d1 = new Duplex(3,1,3,3000,true,2);
+        Simple s1 = new Simple(1,1,2,3000,true,3);
+        Simple s2 = new Simple(13,1,4,3000,true,0);
+        Simple s3 = new Simple(101,1,3,4000,true,0);
+        Garden g1 = new Garden(2,1,5,3000, true, 200);
+        Duplex d1 = new Duplex(3,1,2,3000,true,2);
         Duplex d2 = new Duplex(4,1,3,1000,false,2);
 
         Flat[] flatsBuilding1 = new Flat[]{s1, s2, s3, g1, d1, d2};

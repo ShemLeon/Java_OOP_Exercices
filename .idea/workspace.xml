@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="libr">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/Building.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744123177181</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="libr">
+      <option name="closed" value="true" />
+      <created>1744125888096</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744125888096</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
