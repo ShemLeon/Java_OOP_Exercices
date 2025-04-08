@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="unit4">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Chernomaz_Java/unit4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../unit4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
