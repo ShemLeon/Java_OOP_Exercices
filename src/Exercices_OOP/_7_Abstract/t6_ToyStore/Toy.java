@@ -8,22 +8,42 @@ import unit4.collectionsLib.Node;
 public abstract class Toy {
     private String name;
     private double basePrice;
-    static int toyCount=0;
+    private static int toyCount=0;
 
     public Toy(String name, double basePrice) {
         this.name = name;
         this.basePrice = basePrice;
+        toyCount++;
     }
 
     public abstract double computePrice();
 
-    public void changeBaseprice(double percent){
-        this.basePrice *= (1+percent);
+    public void changeBasePrice(double percent){
+        this.basePrice = basePrice * (1 + percent/100);
+    }
+
+    public static int getToyCount(){
+        return toyCount;
     }
 
     @Override
     public String toString() {
         return name+": the price is "+ this.computePrice();
     }
+}
+
+public abstract class ClassicToy extends Toy{
+    public ClassicToy(String name, double basePrice, int fillAmount){
+
+            super(name, basePrice);
+        }
+    public abstract int fillAmount();
+
+        @Override
+        public double computePrice(){
+            double price;
+
+            return price;
+        }
 }
 
