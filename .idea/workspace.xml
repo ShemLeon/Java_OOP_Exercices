@@ -5,33 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Build nodes">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/unit5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Final/ChessAlgorithm$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Exercices_OOP.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/unit4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/unit4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercices_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercices_OOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices/EX1/Mivhan/E1_2025/S1_1/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices/EX1/Mivhan/E1_2025/S1_1/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices/EX1/Mivhan/E1_2025/S1_1/E1_Sheela1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Exercices_OOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t4_Halumot/Building.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t5_trek/DesertTrek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t5_trek/DesertTrek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_1_Shapes/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_1_Shapes/Rect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_1_Shapes/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_2_Persons/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_2_Persons/Record.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_3_TestAbstract/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_3_TestAbstract/Testabstract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t_3_TestAbstract/Two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/DesertTrek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/DesertTrek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +68,7 @@
     "Application.Shhape.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Testabstract.executor": "Run",
+    "Application.Toy.executor": "Run",
     "Application.Trek.executor": "Run",
     "Application.TrekTest.executor": "Run",
     "Application._7_Abstract.t3_TestAbstract.Testabstract.executor": "Run",
@@ -100,7 +76,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Ucheba/Exercices_OOP/unit4.jar",
     "project.structure.last.edited": "Libraries",
@@ -269,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744633542776</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Build nodes">
+      <option name="closed" value="true" />
+      <created>1744633763461</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744633763461</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
