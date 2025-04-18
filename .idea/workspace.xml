@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Build nodes">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" afterDir="false" />
     </list>
@@ -66,6 +69,7 @@
     "Application.Record.executor": "Run",
     "Application.Shape.executor": "Run",
     "Application.Shhape.executor": "Run",
+    "Application.TeddyBear.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Testabstract.executor": "Run",
     "Application.Toy.executor": "Run",
@@ -261,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744643249555</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Build nodes">
+      <option name="closed" value="true" />
+      <created>1744647244676</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744647244676</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

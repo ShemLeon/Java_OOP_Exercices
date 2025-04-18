@@ -6,8 +6,8 @@ import unit4.collectionsLib.Node;
 // כיתה 48-5
 
 public abstract class Toy {
-    private String name;
-    private double basePrice;
+    protected String name;
+    protected double basePrice;
     private static int toyCount=0;
 
     public Toy(String name, double basePrice) {
@@ -32,18 +32,4 @@ public abstract class Toy {
     }
 }
 
-public abstract class ClassicToy extends Toy{
-    public ClassicToy(String name, double basePrice, int fillAmount){
-
-            super(name, basePrice);
-        }
-    public abstract int fillAmount();
-
-        @Override
-        public double computePrice(){
-            double price;
-
-            return price;
-        }
-}
 
