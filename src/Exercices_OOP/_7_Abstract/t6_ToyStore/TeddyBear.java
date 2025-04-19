@@ -12,7 +12,7 @@ public class TeddyBear extends ClassicToy {
     private String color;
     private static final int MAX_FILL_BIG = 80;
     private static final int MAX_FILL_LITTLE = 50;
-    public TeddyBear(String name, double basePrice, boolean isBig, String color){
+    public TeddyBear(String name, double basePrice,  String color, boolean isBig){
         super(name, basePrice);
         this.name = name;
         this.basePrice = basePrice;
@@ -48,7 +48,7 @@ public class TeddyBear extends ClassicToy {
         }
     }
     public static void main(String args[]){
-        TeddyBear Teddy1 = new TeddyBear("Teddy1", 5.0, true, "red");
+        TeddyBear Teddy1 = new TeddyBear("Teddy1", 5.0,  "red", true);
         System.out.println(Teddy1);
     }
 

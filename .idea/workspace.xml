@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Build nodes">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/RobotToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/SmartToy.java" afterDir="false" />
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="RobotToy">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/RobotToy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/RobotToy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +67,7 @@
     "Application.Message.executor": "Run",
     "Application.Point.executor": "Run",
     "Application.Record.executor": "Run",
+    "Application.RobotToy.executor": "Run",
     "Application.Shape.executor": "Run",
     "Application.Shhape.executor": "Run",
     "Application.TeddyBear.executor": "Run",
@@ -279,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745003779629</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="RobotToy">
+      <option name="closed" value="true" />
+      <created>1745018304983</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1745018304983</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,7 +299,8 @@
     <MESSAGE value="Flats" />
     <MESSAGE value="Trek" />
     <MESSAGE value="Build nodes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Build nodes" />
+    <MESSAGE value="RobotToy" />
+    <option name="LAST_COMMIT_MESSAGE" value="RobotToy" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>

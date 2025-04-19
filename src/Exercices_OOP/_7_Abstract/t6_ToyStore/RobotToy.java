@@ -16,7 +16,7 @@ public class RobotToy extends SmartToy{
 
     @Override
     public void activate() {
-        System.out.println("Robot"+super.toString()+"activate on battery: "+this.batteryLife);
+        System.out.println("Robot "+super.toString()+" activate on battery: "+this.batteryLife+ " hours");
     }
 
     @Override
@@ -35,8 +35,10 @@ public class RobotToy extends SmartToy{
     }
 
     public static void main(String[] args) {
-        //
-        System.out.println("Shalom!");
-        //
+        RobotToy Robot2 = new RobotToy("Robot2", 15.0, true, true, 200);
+
+        System.out.println(Robot2);
+        Robot2.activate();
+
     }
 }
