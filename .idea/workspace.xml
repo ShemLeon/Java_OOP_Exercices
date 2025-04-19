@@ -5,11 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="RobotToy">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassicToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dolly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/ClassicToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/Dolly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/RobotToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/SmartToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/TeddyBear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/ToysTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmartToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeddyBear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Toy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/RobotToy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/RobotToy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/SmartToy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/SmartToy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +95,7 @@
     "Application.Test.executor": "Run",
     "Application.Testabstract.executor": "Run",
     "Application.Toy.executor": "Run",
+    "Application.ToysTestMain.executor": "Run",
     "Application.Trek.executor": "Run",
     "Application.TrekTest.executor": "Run",
     "Application._7_Abstract.t3_TestAbstract.Testabstract.executor": "Run",
@@ -83,7 +105,7 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Ucheba/Exercices_OOP/unit4.jar",
+    "last_opened_file_path": "D:/Ucheba/Exercices_OOP/src",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -92,9 +114,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ucheba\Exercices_OOP\src" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_7_Abstract\Evg" />
       <recent name="D:\Ucheba\Exercices_OOP\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -290,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745018304983</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="RobotToy">
+      <option name="closed" value="true" />
+      <created>1745059435890</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1745059435890</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

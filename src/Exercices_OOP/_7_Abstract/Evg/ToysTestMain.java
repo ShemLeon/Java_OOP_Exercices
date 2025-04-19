@@ -1,11 +1,5 @@
-package Exercices_OOP._7_Abstract.t6_ToyStore;
-
-// מגישים:
-// יבגני נמצ'נקו 321404634
-// שמיאקין לאוניד 336540331
-// כיתה 48-5
-
-public class Test {
+package Exercices_OOP._7_Abstract.Evg;
+public class ToysTestMain {
     public static void main(String[] args) {
         Toy[] toys = new Toy[6];
         toys[0] = new Dolly("Dolly1", 100, 3, 20);
@@ -19,15 +13,9 @@ public class Test {
 
         toys[1].changeBasePrice(50);
         System.out.println(toys[1].toString());
-        System.out.println("Toy count: "+Toy.getToyCount());
+        System.out.println(Toy.getToyCount());
         ((RobotToy)toys[5]).activate();
 
-        Toy[] toys2 = new Toy[2];
-        toys2[0] = new Dolly("Dolly1", 100, 3, 20);
-        toys2[1] = new Dolly("Dolly2", 120, 2, 25);
-        for (int i=0; i<toys2.length;i++)
-            System.out.println(toys2[i].toString());
-        System.out.println("Toy count: "+Toy.getToyCount());
 
         // Test 1: Testing TeddyBear filling functionality
         System.out.println("\nTeddyBear Filling Test:");
@@ -76,4 +64,5 @@ public class Test {
         System.out.println("\n=== Final Statistics ===");
         System.out.println("Final toy count in store: " + Toy.getToyCount());
     }
+
 }
