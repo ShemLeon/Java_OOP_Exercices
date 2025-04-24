@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="RobotToy">
-      <change afterPath="$PROJECT_DIR$/src/ClassicToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dolly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/ClassicToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/Dolly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/RobotToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/SmartToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/TeddyBear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/ToysTestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RobotToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmartToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeddyBear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t1_Product/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/RobotToy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/RobotToy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/SmartToy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/SmartToy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/TeddyBear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,53 +41,53 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2ujdxxHyi0DaS50rgQZ00JFixr5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.AB.executor": "Run",
-    "Application.Building.executor": "Run",
-    "Application.CarShop.executor": "Run",
-    "Application.ChessAlgorithm.executor": "Run",
-    "Application.Circle.executor": "Run",
-    "Application.Clock.executor": "Run",
-    "Application.Duplex.executor": "Run",
-    "Application.Final_t1.executor": "Run",
-    "Application.Kids.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Message.executor": "Run",
-    "Application.Point.executor": "Run",
-    "Application.Record.executor": "Run",
-    "Application.RobotToy.executor": "Run",
-    "Application.Shape.executor": "Run",
-    "Application.Shhape.executor": "Run",
-    "Application.TeddyBear.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Testabstract.executor": "Run",
-    "Application.Toy.executor": "Run",
-    "Application.ToysTestMain.executor": "Run",
-    "Application.Trek.executor": "Run",
-    "Application.TrekTest.executor": "Run",
-    "Application._7_Abstract.t3_TestAbstract.Testabstract.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Ucheba/Exercices_OOP/src",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Building.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChessAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Duplex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Final_t1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kids.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Message.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Point.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Record.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RobotToy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shhape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeddyBear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Testabstract.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Toy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToysTestMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Trek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrekTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application._7_Abstract.t3_TestAbstract.Testabstract.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Ucheba/Exercices_OOP/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Ucheba\Exercices_OOP\src" />
@@ -322,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745059435890</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="RobotToy">
+      <option name="closed" value="true" />
+      <created>1745067423144</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1745067423144</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
