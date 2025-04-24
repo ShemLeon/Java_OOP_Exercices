@@ -4,6 +4,6 @@ public interface PayAble {
     public void printPrice();
     public boolean discount();
     public double stock();
-    public boolean equals();
+    public boolean equals(Object obj);
     public String toString();
 }
