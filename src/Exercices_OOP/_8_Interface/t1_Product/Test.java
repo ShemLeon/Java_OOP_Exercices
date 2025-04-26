@@ -1,5 +1,4 @@
 package Exercices_OOP._8_Interface.t1_Product;
-
 // מגישים:
 // יבגני נמצ'נקו 321404634
 // שמיאקין לאוניד 336540331
@@ -9,7 +8,6 @@ public class Test {
     public static void main(String[] args) {
         // Creating an array of 10 products of different types
         PayAble[] products = new PayAble[10];
-
         products[0] = new Iron("Phillips", "Utyug007", 120, 25.5, true);
         products[1] = new Iron("Tefal", "Utyug006", 80, 18.9, false);
         products[2] = new TV("Samsung", "Almaz", 15, 1200, true);
