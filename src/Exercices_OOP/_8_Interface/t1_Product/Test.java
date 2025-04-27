@@ -15,7 +15,7 @@ public class Test {
         products[4] = new TV("Sony", "Panas123", 30, 750, false);
         products[5] = new Micro("Samsung", "ME83X", 45, 120, 0.5);
         products[6] = new Micro("LG", "MS2336GIH", 60, 95, 0.4);
-        products[7] = new DVD("Sony", "UBP-X800M2", 180, 249.99, "4K");
+        products[7] = new DVD("Sony", "Pony13", 180, 249.99, "4K");
         products[8] = new DVD("LG", "BP250", 220, 69.99, "Full HD");
         products[9] = new DVD("Yamaha", "BD-S477", 150, 199.99, "3D");
 
