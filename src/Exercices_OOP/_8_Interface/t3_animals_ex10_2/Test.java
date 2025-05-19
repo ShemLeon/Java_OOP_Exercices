@@ -21,5 +21,7 @@ public class Test {
         IHasEggs he = new Bird(); // 6. +-
     //  he.fly();                 // --
 
+
+
     }
 }

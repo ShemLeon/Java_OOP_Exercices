@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Interface&#10;TV">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya/AStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya/BStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Bat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/ICanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/IHasEggs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/description.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dia.drawio" beforeDir="false" />
-    </list>
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Animals ex10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -375,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745786686954</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Animals ex10">
+      <option name="closed" value="true" />
+      <created>1747693767630</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1747693767630</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -388,7 +379,8 @@
     <MESSAGE value="Interface&#10;Product" />
     <MESSAGE value="Interface&#10;Iron" />
     <MESSAGE value="Interface&#10;TV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface&#10;TV" />
+    <MESSAGE value="Animals ex10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animals ex10" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
