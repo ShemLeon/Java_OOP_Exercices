@@ -24,4 +24,14 @@ public class Test {
 
 
     }
+    // 3
+    public int printICanFly(Animal[] animals){
+        int count = 0;
+        for (int i=0; i<animals.length; i++){
+            if (animals[i] instanceof ICanFly) count++;
+        }
+        return count;
+    }
 }
+
+

@@ -44,9 +44,27 @@ public void fly() {
    ++ `cf.fly();` // Bird can fly    ++
    ++ `cf = new Bat();`
    ++ `cf.fly();` // Bat can fly     ++
-4. +- `Mammal m = new Bat(); UPCASTING` +-   
+4. +- `Mammal m = new Bat();` UPCASTING +-   
    --`m.fly();` --
 Не работает, потому что переменная `m` имеет тип , а не `Mammal``Bat`
 При апкастинге вы теряете доступ к специфическим методам подкласса и имеете доступ только к методам, объявленным в суперклассе.
-чтобы сработало - Сделать даункастинг обратно к `Bat` :
-`((Bat)m).fly();` 
+чтобы сработало - Сделать DOWNCASTING обратно к `Bat` :
+`((Bat)m).fly();`
+5. ++ `Animal a2 = new Bird();` UPCASTING ++
+   ++ `((Bird)a2).fly();` DOWNCASTING ++  
+6. +- `IHasEggs he = new Bird();`
+   -- he.fly(); --
+Не работает, потому что Интерфейс не содержит метод `fly()`,
+только тип переменной определяет доступные методы `IHasEggs`
+
+**3.**
+//כתבו פעולה המקבלת כפרמטר מערך של בעלי חיים (מעך הפניות לעמצים מסוג ANIMAL),
+ומחזירה את מספר בעלי החיים המסוגלים לעוף הנמצאים במערך.
+
+`public int printICanFly(Animal[] animals){
+    int count = 0;
+    for (int i=0; i<animals.length; i++){
+        if (animals[i] instanceof ICanFly) count++;
+    }
+    return count;
+}`

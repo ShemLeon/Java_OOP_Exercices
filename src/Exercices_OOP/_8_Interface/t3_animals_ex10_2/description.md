@@ -57,5 +57,14 @@ public void fly() {
 Не работает, потому что Интерфейс не содержит метод `fly()`,
 только тип переменной определяет доступные методы `IHasEggs`
 
-**3.** 
+**3.**
+//כתבו פעולה המקבלת כפרמטר מערך של בעלי חיים (מעך הפניות לעמצים מסוג ANIMAL),
+ומחזירה את מספר בעלי החיים המסוגלים לעוף הנמצאים במערך.
 
+`public int printICanFly(Animal[] animals){
+    int count = 0;
+    for (int i=0; i<animals.length; i++){
+        if (animals[i] instanceof ICanFly) count++;
+    }
+    return count;
+}`

@@ -1,4 +1,4 @@
-package Exercices_OOP._8_Interface.t2_Pnimiya;
+package Exercices_OOP._8_Interface.t2_Pnimiya_ex10_3;
 
 public class AStudent implements Student {
     private int id;
