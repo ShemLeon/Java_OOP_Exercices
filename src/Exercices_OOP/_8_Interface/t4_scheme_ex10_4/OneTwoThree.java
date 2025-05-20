@@ -56,7 +56,7 @@ public class OneTwoThree {
         C3 c = new C4();    //      3. ++
         // C2 d = new C4(); //      4. --
         // C4 e = new C3(); //      5. --
-        C4 f = (C4)(new C3());  //  6. ++
+        // C4 f = (C4)(new C3());  //  6. -- `ClassCastException`
 
         IOne g1 = new C1();     //  7. ++
         C4 g2 = new C4();       //  7. +
