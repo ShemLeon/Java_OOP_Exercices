@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="схема 10_4">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/EmployeeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/RegularEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Salaried.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Technician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/UnionMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Votable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/description.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/C1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/C1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/C2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/C2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/C3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/C3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/C4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/C4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WAREHOUSE.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/WAREHOUSE.drawio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/description.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -67,6 +74,7 @@
     "Application.Circle.executor": "Run",
     "Application.Clock.executor": "Run",
     "Application.Duplex.executor": "Run",
+    "Application.Employee.executor": "Run",
     "Application.Final_t1.executor": "Run",
     "Application.Kids.executor": "Run",
     "Application.Main.executor": "Run",
@@ -75,6 +83,7 @@
     "Application.Point.executor": "Run",
     "Application.Product.executor": "Run",
     "Application.Record.executor": "Run",
+    "Application.RegularEmployee.executor": "Run",
     "Application.RobotToy.executor": "Run",
     "Application.Shape.executor": "Run",
     "Application.Shhape.executor": "Run",
@@ -85,6 +94,7 @@
     "Application.ToysTestMain.executor": "Run",
     "Application.Trek.executor": "Run",
     "Application.TrekTest.executor": "Run",
+    "Application.UnionMember.executor": "Run",
     "Application._7_Abstract.t3_TestAbstract.Testabstract.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -113,6 +123,7 @@
       <recent name="D:\Ucheba\Exercices_OOP\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exercices_OOP._8_Interface.ex_14_1" />
       <recent name="_2_Murkavim" />
     </key>
   </component>
@@ -401,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747742307998</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="схема 10_4">
+      <option name="closed" value="true" />
+      <created>1747744216660</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1747744216660</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
