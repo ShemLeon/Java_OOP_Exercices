@@ -7,13 +7,13 @@ import unit4.collectionsLib.Node;
 // כיתה 48-5
 
 public class RegularEmployee extends Employee{
-
+    private static final int MIN_YEARS_FOR_BONUS = 5;
     public RegularEmployee(String name, int yearsOfSeniority) {
         super(name, yearsOfSeniority, EmployeeType.REGULAR);
     }
 
     public double calculateSalary() {
-        return 0;
+        return calculateBaseSalary();
     }
 
     public int getVoteScore() {

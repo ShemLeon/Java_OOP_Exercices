@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="схема 10_4">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/EmployeeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/RegularEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Salaried.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Technician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/UnionMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Votable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/description.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WAREHOUSE.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/WAREHOUSE.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/description.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/UnionMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/UnionMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/RegularEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/RegularEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Technician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Technician.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +77,7 @@
     "Application.RobotToy.executor": "Run",
     "Application.Shape.executor": "Run",
     "Application.Shhape.executor": "Run",
+    "Application.Technician.executor": "Run",
     "Application.TeddyBear.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Testabstract.executor": "Run",
@@ -420,7 +411,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747744216660</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="схема 10_4">
+      <option name="closed" value="true" />
+      <created>1749851439098</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1749851439098</updated>
+    </task>
+    <task id="LOCAL-00035" summary="схема 10_4">
+      <option name="closed" value="true" />
+      <created>1749851469685</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1749851469685</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -6,15 +6,19 @@ package Exercices_OOP._8_Interface.ex_14_1;
 // כיתה 48-5
 
 public class Technician extends Employee{
-    private int yearsAsUnionMember;
+    private int numComputers;
+    private static final double COMPUTER_BONUS = 250;
+    private static final int COMPUTERS_FOR_BONUS = 10;
+    private static final int MIN_COMPUTERS_FOR_BONUS = 100;
+    private static final int MIN_YEARS_FOR_BONUS = 5;
 
-    public Technician(String name, int yearsOfSeniority, int yearsAsUnionMember) {
-        super(name, yearsOfSeniority, EmployeeType.UNION);
-        this.yearsAsUnionMember = yearsAsUnionMember;
+    public Technician(String name, int yearsOfSeniority, int numComputers) {
+        super(name, yearsOfSeniority, EmployeeType.TECHNICIAN);
+        this.numComputers = numComputers;
     }
 
     public double calculateSalary() {
-        return calculateBaseSalary();
+        return calculateBaseSalary() + ((numComputers / COMPUTERS_FOR_BONUS) * COMPUTER_BONUS);
     }
 
     public int getVoteScore() {
@@ -24,9 +28,9 @@ public class Technician extends Employee{
 
     public static void main(String[] args) {
         System.out.println("Shalom!");
-        Technician u1 = new Technician("qwe", 4, 2);
-        System.out.println(u1);
-        System.out.println(u1.calculateBaseSalary());
+        Technician t1 = new Technician("Tehnik#1", 4, 130);
+        System.out.println(t1);
+        System.out.println(t1.calculateSalary());
         
     }
 
