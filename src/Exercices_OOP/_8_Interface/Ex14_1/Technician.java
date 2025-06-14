@@ -1,4 +1,4 @@
-package Exercices_OOP._8_Interface.ex_14_1;
+package Exercices_OOP._8_Interface.Ex14_1;
 
 // מגישים:
 // יבגני נמצ'נקו 321404634
@@ -6,11 +6,12 @@ package Exercices_OOP._8_Interface.ex_14_1;
 // כיתה 48-5
 
 public class Technician extends Employee{
-    private int numComputers;
+    private final int numComputers;
     private static final double COMPUTER_BONUS = 250;
     private static final int COMPUTERS_FOR_BONUS = 10;
     private static final int MIN_COMPUTERS_FOR_BONUS = 100;
     private static final int MIN_YEARS_FOR_BONUS = 5;
+    private static final int VOTE_SCORE = 23;
 
     public Technician(String name, int yearsOfSeniority, int numComputers) {
         super(name, yearsOfSeniority, EmployeeType.TECHNICIAN);
@@ -22,7 +23,11 @@ public class Technician extends Employee{
     }
 
     public int getVoteScore() {
-        return 0;
+        return VOTE_SCORE;
+    }
+
+    public int getNumComputers() {
+        return numComputers;
     }
 
 

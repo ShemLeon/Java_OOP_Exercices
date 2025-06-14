@@ -1,4 +1,4 @@
-package Exercices_OOP._8_Interface.ex_14_1;
+package Exercices_OOP._8_Interface.Ex14_1;
 
 // מגישים:
 // יבגני נמצ'נקו 321404634
@@ -7,7 +7,7 @@ package Exercices_OOP._8_Interface.ex_14_1;
 
 public class UnionMember extends Employee{
     private int yearsAsUnionMember;
-
+    private static final int VOTE_SCORE = 24;
     public UnionMember(String name, int yearsOfSeniority, int yearsAsUnionMember) {
         super(name, yearsOfSeniority, EmployeeType.UNION);
         this.yearsAsUnionMember = yearsAsUnionMember;
@@ -18,7 +18,7 @@ public class UnionMember extends Employee{
     }
 
     public int getVoteScore() {
-        return 0;
+        return VOTE_SCORE;
     }
 
 

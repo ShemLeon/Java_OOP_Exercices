@@ -1,4 +1,4 @@
-package Exercices_OOP._8_Interface.ex_14_1;
+package Exercices_OOP._8_Interface.Ex14_1;
 
 // מגישים:
 // יבגני נמצ'נקו 321404634
@@ -23,6 +23,9 @@ public abstract class Employee implements Votable, Salaried {
         return BASE_SALARY + (yearsOfSeniority * SENIORITY_BONUS);
     }
 
+    public abstract int getVoteScore();
+    public abstract double calculateSalary();
+    
     @Override
     public String toString() {
         return "Name: " + name + ", Type: " + type.getDescription() + ", Years: " + yearsOfSeniority;
