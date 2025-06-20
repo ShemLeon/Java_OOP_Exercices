@@ -4,25 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="10.5 ex">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/BonusNotEligibleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/ProjectSupervisor.java" afterDir="false" />
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Ex14_1">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_0_Start/Bucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_0_Start/BucketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Table/Kita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Table/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Table/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/RegularEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/RegularEmployee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/UnionMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/UnionMember.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/employee.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/employee.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/.$employee.drawio.bkp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/.$employee.drawio.bkp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/EmployeeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/EmployeeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/RegularEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/RegularEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Salaried.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Salaried.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Technician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Technician.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/UnionMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/UnionMember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/Votable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Votable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/ex_14_1/employee.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/employee.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doc1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code2prompt-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_0_Start/Clock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_0_Start/Clock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Kita.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_2_Murkavim/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/.$employee.drawio.bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/EmployeeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/RegularEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/Salaried.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/UnionMember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/Votable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/ex_14_1/employee.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rye-x86_64-windows.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_0_Start/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_0_Start/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_2_Murkavim/Table/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/.$employee.drawio.bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/BonusNotEligibleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/BonusNotEligibleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/EmployeeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/EmployeeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/ProjectSupervisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/ProjectSupervisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/RegularEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/RegularEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Salaried.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/Salaried.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Technician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/Technician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/UnionMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/UnionMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/Votable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex14_1/Votable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Ex14_1/employee.drawio" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,62 +87,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bird.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Building.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarShop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChessAlgorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Company.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Duplex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercices_OOP._8_Interface.ex_14_1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final_t1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kids.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Message.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OneTwoThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Point.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Product.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProjectSupervisor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Record.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RegularEmployee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RobotToy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shhape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Technician.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TeddyBear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testabstract.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Toy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToysTestMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Trek.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrekTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnionMember.executor&quot;: &quot;Run&quot;,
-    &quot;Application._7_Abstract.t3_TestAbstract.Testabstract.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Ucheba/Exercices_OOP/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AB.executor": "Run",
+    "Application.Bat.executor": "Run",
+    "Application.Bird.executor": "Run",
+    "Application.Bucket.executor": "Run",
+    "Application.BucketTest.executor": "Run",
+    "Application.Building.executor": "Run",
+    "Application.CarShop.executor": "Run",
+    "Application.ChessAlgorithm.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.Clock.executor": "Run",
+    "Application.Company.executor": "Run",
+    "Application.Duplex.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Ex14_1.Main.executor": "Run",
+    "Application.Exercices_OOP._8_Interface.ex_14_1.Main.executor": "Run",
+    "Application.Final_t1.executor": "Run",
+    "Application.Kids.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Message.executor": "Run",
+    "Application.OneTwoThree.executor": "Run",
+    "Application.Point.executor": "Run",
+    "Application.Product.executor": "Run",
+    "Application.ProjectSupervisor.executor": "Run",
+    "Application.Record.executor": "Run",
+    "Application.RegularEmployee.executor": "Run",
+    "Application.RobotToy.executor": "Run",
+    "Application.Shape.executor": "Run",
+    "Application.Shhape.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.Technician.executor": "Run",
+    "Application.TeddyBear.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Testabstract.executor": "Run",
+    "Application.Toy.executor": "Run",
+    "Application.ToysTestMain.executor": "Run",
+    "Application.Trek.executor": "Run",
+    "Application.TrekTest.executor": "Run",
+    "Application.UnionMember.executor": "Run",
+    "Application._7_Abstract.t3_TestAbstract.Testabstract.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Ucheba/Exercices_OOP/src/Ex14_1",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Exercices_OOP._8_Interface.t2_Pnimiya" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ucheba\Exercices_OOP\src\Ex14_1" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_8_Interface\t4_scheme_ex10_4" />
       <recent name="D:\Ucheba\Exercices_OOP\src" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP" />
@@ -132,6 +157,7 @@
       <recent name="D:\Ucheba\Exercices_OOP\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ex14_1" />
       <recent name="Exercices_OOP._8_Interface.ex_14_1" />
       <recent name="_2_Murkavim" />
     </key>
@@ -453,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749852650001</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Ex14_1">
+      <option name="closed" value="true" />
+      <created>1749912975301</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1749912975301</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -469,7 +503,8 @@
     <MESSAGE value="Animals ex10" />
     <MESSAGE value="схема 10_4" />
     <MESSAGE value="10.5 ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.5 ex" />
+    <MESSAGE value="Ex14_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex14_1" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>

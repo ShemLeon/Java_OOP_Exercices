@@ -43,16 +43,8 @@ public class Clock {
         Clock c3 = new Clock(14, 20);
 
 
-        System.out.println(c1.assertHour(c1, c2));
-        System.out.println(c1.assertHour(c1, c3));
-
-        System.out.println(c1.pereshMinutes(c1, c2));
-        System.out.println(c1.toString());
-        System.out.println(c2.toString());
-        char a = '5';
-        double b = 6.0;
-         if (a>b) System.out.println("TRUEEE");
-         if (a<b) System.out.println("TRUEEE");
+        System.out.println(c1.toString()+ " & "+c2.toString()+" have the same Hour: "+c1.assertHour(c1, c2));
+        System.out.println(c1.toString()+ " & "+c3.toString()+" have the same Hour: "+c1.assertHour(c1, c3));
+        System.out.println(c1.toString()+ " & "+c2.toString()+" have difference in minutes: " + c1.pereshMinutes(c1, c2));
     }
-
-    }
+}

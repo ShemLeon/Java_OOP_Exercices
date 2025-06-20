@@ -26,7 +26,6 @@ public class Message {
         this.messageDate.setYear(messageDate.getYear());
     }
 
-
     public String toString(){
         String s = "";
         s += "--"+this.messageDate.toString()+"--"+ "\n";
@@ -35,6 +34,7 @@ public class Message {
         s += this.content;
         return s;
     }
+
     public void reply(String rep, Date d){
         String temp = this.from;
         this.from = this.to;
