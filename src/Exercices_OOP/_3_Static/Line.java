@@ -1,6 +1,4 @@
 package Exercices_OOP._3_Static;
-
-
 import Exercices_OOP._1_OverLoading.Point;
 
 public class Line {

@@ -1,10 +1,10 @@
 package Exercices_OOP._4_Maarah;
 
-public class Animal {
+public class Animall {
     private String name; // Name of the animal
     private int age;     // Age of the animal
     private String type; // Type of the animal
-    public Animal(String name, int age, String type) {
+    public Animall(String name, int age, String type) {
         this.name = name;
         this.age = age;
         this.type = type;
@@ -17,16 +17,16 @@ public class Animal {
 }
 class Zoo {
     private static final int MAX_ANIMALS = 100; // Maximum number of animals allowed
-    private Animal[] animals;                  // Array to store animals
+    private Animall[] animals;                  // Array to store animals
     private int count;                         // Number of animals in the zoo
     // Constructor
     public Zoo() {
-        animals = new Animal[MAX_ANIMALS]; // Initialize the array
+        animals = new Animall[MAX_ANIMALS]; // Initialize the array
         count = 0;                         // Initial animal count
     }
 
     // Add an animal to the zoo
-    public void addAnimal(Animal animal) {
+    public void addAnimal(Animall animal) {
         if (count < MAX_ANIMALS) {
             animals[count] = animal; // Add the animal to the array
             count++;                 // Increase the count
@@ -70,9 +70,9 @@ class Zoo {
         Zoo zoo = new Zoo();
 
         // Create Animal objects
-        Animal enot = new Animal("Enot", 2, "Rakoon");
-        Animal lion = new Animal("Lion", 5, "Simba");
-        Animal snake= new Animal("Snake", 3, "Anakonda");
+        Animall enot = new Animall("Enot", 2, "Rakoon");
+        Animall lion = new Animall("Lion", 5, "Simba");
+        Animall snake= new Animall("Snake", 3, "Anakonda");
 
         // Add animals to the zoo
         zoo.addAnimal(enot); zoo.addAnimal(lion);  zoo.addAnimal(snake);

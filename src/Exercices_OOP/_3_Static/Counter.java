@@ -2,10 +2,7 @@ package Exercices_OOP._3_Static;
 
 
 public class Counter {
-
-
     public static int count=0;
-
     /* Counter class constructor
      * How it works:
      * 1. When each new object is created
@@ -36,5 +33,6 @@ public class Counter {
         // Output the number of created objects
         // The trick is to access the class directly because it's static
         System.out.println("Objects created: " + Counter.getCount());
+        System.out.println("Objects created: " + count);
     }
 }

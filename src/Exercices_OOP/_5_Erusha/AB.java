@@ -27,6 +27,7 @@ public class AB {
     public static void main(String[] args) {
         // Creating an object of class B
         B b1 = new B(); // A B
-        B b2 = new B(5); //
+        B b2 = new B(5); // A + Param 5 B + Param5
+
     }
 }
