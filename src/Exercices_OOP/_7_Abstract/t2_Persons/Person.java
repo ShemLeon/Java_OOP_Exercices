@@ -1,4 +1,4 @@
-package _7_Abstract.t2_Persons;
+package Exercices_OOP._7_Abstract.t2_Persons;
 
 
 class Person {

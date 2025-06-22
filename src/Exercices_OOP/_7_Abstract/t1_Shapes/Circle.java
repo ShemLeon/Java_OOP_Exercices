@@ -1,33 +1,13 @@
-package _7_Abstract.t1_Shapes;
-
+package Exercices_OOP._7_Abstract.t1_Shapes;
 import java.awt.*;
-import java.awt.Shape;
 
-/**
- * Класс Circle - конкретная реализация абстрактного класса Shape
- * Представляет круг в графическом интерфейсе
- */
-public class Circle extends Shhape {
+public class Circle extends Shape {
     private int radius;
-
-    /**
-     * Конструктор круга
-     * @param p центр круга
-     * @param r радиус круга
-     * @param c цвет круга
-     */
-    public Circle(Point p, int r, Color c) {
+    public Circle(Point p, Color c, int radius) {
         super(p, c);
-        this.radius = r;
+        this.radius = radius;
     }
 
-    /**
-     * Метод для рисования круга
-     * @param g графический контекст
-     * Принцип работы:
-     * 1. Устанавливаем цвет
-     * 2. Рисуем окружность с помощью drawArc
-     */
     @Override
     public void draw(Graphics g) {
         g.setColor(super.color);
@@ -41,29 +21,15 @@ public class Circle extends Shhape {
         );
     }
 
-    /**
-     * Метод для вычисления площади круга
-     * @return площадь круга
-     * Принцип работы:
-     * 1. Используем формулу π * r^2
-     */
     @Override
     public double area() {
         return Math.PI * radius * radius;
     }
-    
-    /**
-     * Получить радиус круга
-     * @return радиус
-     */
+
     public int getRadius() {
         return radius;
     }
-    
-    /**
-     * Установить радиус круга
-     * @param radius новый радиус
-     */
+
     public void setRadius(int radius) {
         this.radius = radius;
     }

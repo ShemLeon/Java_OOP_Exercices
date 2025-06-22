@@ -1,18 +1,15 @@
-package _7_Abstract.t1_Shapes;
+package Exercices_OOP._7_Abstract.t1_Shapes;
+
 import java.awt.*;
-import java.awt.Shape;
-/*
-public class Rect extends Shhape {
+
+public class Rect extends Shape{
     private int width;
     private int height;
-
-    public Rect(Point p, int w, int h, Color c) {
-        super();
-        area(p, c);
+    public Rect(Point p, Color c, int w, int h) {
+        super(p, c);
         this.width = w;
         this.height = h;
     }
-
     @Override
     public void draw(Graphics g) {
         g.setColor(super.color);
@@ -23,6 +20,5 @@ public class Rect extends Shhape {
     public double area() {
         return 0;
     }
-}
 
- */
+}

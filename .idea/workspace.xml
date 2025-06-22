@@ -4,24 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Erusha Dog">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_1_OverLoading/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_1_OverLoading/Bookk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_1_OverLoading/Carr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_1_OverLoading/Personn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Animals/Boxer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Animals/Labrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/XYZ_casting/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/XYZ_casting/XYZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/XYZ_casting/Y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/XYZ_casting/Z.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_6_Polymorphism/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t0_Final_Class/ChessAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t0_Final_Class/DeadMachine.java" afterDir="false" />
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="final class">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Test_Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/murkavim/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/murkavim/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Animals/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/_7_Abstract/t1_Shapes/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/_7_Abstract/t1_Shapes/Shhape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/_7_Abstract/t2_Persons/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/_7_Abstract/t2_Persons/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t0_Final_Class/ChessAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t0_Final_Class/DeadMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Rect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Shhape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t2_Persons/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t2_Persons/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t2_Persons/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t2_Persons/Record.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +102,7 @@
     "Application.Product.executor": "Run",
     "Application.ProjectSupervisor.executor": "Run",
     "Application.Record.executor": "Run",
+    "Application.Rect.executor": "Run",
     "Application.RegularEmployee.executor": "Run",
     "Application.RobotToy.executor": "Run",
     "Application.Shape.executor": "Run",
@@ -114,6 +112,7 @@
     "Application.TeddyBear.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestReportCard.executor": "Run",
+    "Application.Test_Shape.executor": "Run",
     "Application.Testabstract.executor": "Run",
     "Application.Toy.executor": "Run",
     "Application.ToysTestMain.executor": "Run",
@@ -523,7 +522,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750510920233</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="final class">
+      <option name="closed" value="true" />
+      <created>1750552379758</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1750552379758</updated>
+    </task>
+    <task id="LOCAL-00044" summary="final class">
+      <option name="closed" value="true" />
+      <created>1750552388203</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1750552388203</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -541,7 +556,8 @@
     <MESSAGE value="10.5 ex" />
     <MESSAGE value="Ex14_1" />
     <MESSAGE value="Erusha Dog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Erusha Dog" />
+    <MESSAGE value="final class" />
+    <option name="LAST_COMMIT_MESSAGE" value="final class" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
