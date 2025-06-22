@@ -1,7 +1,6 @@
 package Exercices_OOP._7_Abstract.t5_trek;
 import unit4.collectionsLib.Node;
 
-
 public abstract class Trek {
     private String name;
     private String location;
@@ -13,10 +12,7 @@ public abstract class Trek {
         this.duration = duration;
     }
 
-    // Returns the difficulty level of the trek
     public abstract String getDifficulty();
-
-    // Returns the list of required equipment
     public abstract Node<String> getRequiredEquipment();
 
     // Prints trek details

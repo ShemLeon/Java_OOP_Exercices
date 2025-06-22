@@ -20,5 +20,4 @@ public class Rect extends Shape{
     public double area() {
         return 0;
     }
-
 }

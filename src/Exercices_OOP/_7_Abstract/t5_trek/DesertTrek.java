@@ -4,7 +4,6 @@ import unit4.collectionsLib.Node;
 public class DesertTrek extends Trek {
     private double temperature;
 
-
     public DesertTrek(String name, String location, int duration, double temperature) {
         super(name, location, duration);
         this.temperature = temperature;

@@ -1,10 +1,5 @@
 package Exercices_OOP._7_Abstract.t6_ToyStore;
 
-// מגישים:
-// יבגני נמצ'נקו 321404634
-// שמיאקין לאוניד 336540331
-// כיתה 48-5
-
 public abstract class ClassicToy extends Toy{
     private int fillAmount;
     /**

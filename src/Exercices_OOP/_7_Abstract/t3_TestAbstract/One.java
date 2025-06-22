@@ -28,6 +28,5 @@ class Testabstract{
         System.out.println(obj.sumOfTwo(3,7)); // 26
         System.out.println(obj.sumOfThree(4,3,19));
         obj.disp();     // Method of class One
-
     }
 }
