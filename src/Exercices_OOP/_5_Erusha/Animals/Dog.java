@@ -1,17 +1,18 @@
 package Exercices_OOP._5_Erusha.Animals;// import unit4.collectionsLib.Node;
 
 public class Dog extends Mammal{
-    protected int bonesToEat;
-    public Dog(String name, String gender, double milk, int bonesToEat) {
+    protected int bones;
+    public Dog(String name, String gender, double milk, int bones) {
         super(name, gender, milk);
-        this.bonesToEat =bonesToEat;
+        this.bones =bones;
     }
+
     public void hideBones(int bonesToHide){
         System.out.println("Hide bones: "+bonesToHide);
     }
     @Override
     public String toString(){
-        return super.toString()+", bones to eat: "+bonesToEat;
+        return super.toString()+", bones to eat: "+bones;
     }
 
     public static void main(String[] args) {
