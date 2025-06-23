@@ -1,6 +1,5 @@
 package Exercices_OOP._5_Erusha.Animals;// import unit4.collectionsLib.Node;
 
-import com.exercises.oop.murkavim.Student;
 
 public class Labrador extends Dog {
     private Object toy;

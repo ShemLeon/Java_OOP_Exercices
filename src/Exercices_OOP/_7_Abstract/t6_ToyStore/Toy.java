@@ -15,11 +15,9 @@ public abstract class Toy {
     public void changeBasePrice(double percent){
         this.basePrice = basePrice * (1 + percent/100);
     }
-
     public static int getToyCount(){
         return toyCount;
     }
-
     @Override
     public String toString() {
         return this.name+": the price is "+ this.computePrice();

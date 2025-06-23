@@ -4,19 +4,73 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Abstract start">
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Abstract end">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_ABC/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_ABC/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_ABC/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_ABC/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_fly/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_fly/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_fly/Fishh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_fly/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_fly/Swimmable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_fly/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t2_Persons/Record.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t2_Persons/Record.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t3_TestAbstract/Testabstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t3_TestAbstract/Testabstract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t1_Shapes/Rect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t3_TestAbstract/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t3_TestAbstract/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/DesertTrek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/DesertTrek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/MountainTrek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/MountainTrek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/Trek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/Trek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/ex1_Leonid_Shemiakin_Evgenii_Nemchenko.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t5_trek/matla.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t4_Halumot/matla.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Animals/Labrador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_5_Erusha/Animals/Labrador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t1_Product/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t1_Product/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/maarah/Animal$Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/maarah/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/maarah/Pixel$Picture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/maarah/Pixel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/maarah/Subject$ReportCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/maarah/Subject$TestReportCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/maarah/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/murkavim/Kita.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/murkavim/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/murkavim/Priangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/murkavim/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/murkavim/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/murkavim/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/overloading/Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/overloading/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/staticmembers/ClassMember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/staticmembers/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/staticmembers/Kids.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/staticmembers/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/staticmembers/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/com/exercises/oop/staticmembers/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Animals/Labrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_5_Erusha/Animals/Labrador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/ClassicToy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Dolly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/t6_ToyStore/Toy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t1_Product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t1_Product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bin/Exercices_OOP/_7_Abstract/t5_trek/DesertTrek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bin/Exercices_OOP/_7_Abstract/t5_trek/MountainTrek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bin/Exercices_OOP/_7_Abstract/t5_trek/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bin/Exercices_OOP/_7_Abstract/t5_trek/Trek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bin/Exercices_OOP/_7_Abstract/t5_trek/TrekTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/maarah/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/maarah/Pixel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/maarah/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Priangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/murkavim/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/overloading/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/overloading/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/ClassMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/Kids.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exercises/oop/staticmembers/TestRunner.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +80,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
         <option value="Exception" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -553,7 +607,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750555254937</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Abstract end">
+      <option name="closed" value="true" />
+      <created>1750622724583</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1750622724584</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -573,7 +635,8 @@
     <MESSAGE value="Erusha Dog" />
     <MESSAGE value="final class" />
     <MESSAGE value="Abstract start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract start" />
+    <MESSAGE value="Abstract end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract end" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
