@@ -1,6 +1,6 @@
-package Exercices_OOP._9_Sorter.t0_sorter;
-import static Exercices_OOP._9_Sorter.t0_sorter.Sorter.printArr;
-import static Exercices_OOP._9_Sorter.t0_sorter.Sorter.sort;
+package Exercices_OOP._8_Interface.t0_sorter;
+import static Exercices_OOP._8_Interface.t0_sorter.Sorter.printArr;
+import static Exercices_OOP._8_Interface.t0_sorter.Sorter.sort;
 
 public class Test {
     public static void main(String[] args) {

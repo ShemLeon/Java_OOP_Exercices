@@ -1,4 +1,4 @@
-package Exercices_OOP._9_Sorter.t0_sorter;
+package Exercices_OOP._8_Interface.t0_sorter;
 
 public class Sorter {
     // Сортировка массива int (selection sort)
