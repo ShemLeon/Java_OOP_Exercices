@@ -63,6 +63,38 @@ public class Sorter {
         }
     }
 
+    public static void sort(String[] arr) {
+        int minIndex;
+        for (int placeIndex = 0; placeIndex < arr.length - 1; placeIndex++) {
+            minIndex = findMinIndex(arr, placeIndex);
+            swap(arr, minIndex, placeIndex);
+        }
+    }
+
+    private static void swap(String[] arr, int i, int j) {
+        String temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+
+    private static int findMinIndex(String[] arr, int placeIndex) {
+        String minimum = arr[placeIndex];
+        int minIndex = placeIndex;
+        for (int i = placeIndex + 1; i < arr.length; i++) {
+            if (arr[i].compareTo(minimum) < 0) {
+                minimum = arr[i];
+                minIndex = i;
+            }
+        }
+        return minIndex;
+    }
+
+    public static void printArr(String[] arr) {
+        for (String element : arr) {
+            System.out.print(element + " ");
+        }
+        System.out.println();
+    }
 
 }
 
