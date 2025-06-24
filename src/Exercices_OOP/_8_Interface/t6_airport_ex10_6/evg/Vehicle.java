@@ -27,4 +27,5 @@ public abstract class Vehicle implements Movable, Comparable<Object> {
 
     public abstract String getType();
     public abstract String details();
+
 }

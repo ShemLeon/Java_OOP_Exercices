@@ -1,4 +1,4 @@
-package Exercices_OOP._8_Interface.t6_airport_ex10_6;// import unit4.collectionsLib.Node;
+package Exercices_OOP._8_Interface.t6_airport_ex10_6;
 
 public class Plane extends Vehicle{
     private int height;
@@ -7,7 +7,7 @@ public class Plane extends Vehicle{
     private int id;
     private String type = "Plane";
 
-    public Plane(int id, String source, String destination, int height) {
+    public Plane(String source, String destination, int height, int id) {
         super(id, source, destination);
         this.id = id;
         this.height = height;
@@ -20,13 +20,17 @@ public class Plane extends Vehicle{
         return type;
     }
 
-    public int compareTo(Object o){
-        return 0;
-    }
-
     public String details(){
         return  "Movable Type: " + getType()+ "\n"+
                 super.details() + "\n"+
                 "Max altitude: [" + height + "]" +"\n";
+    }
+
+    // если параметр основного объекта выше чем сравниваемого - вернет 1
+    @Override
+    public int compareTo(Object o) {
+        if (!(o instanceof Plane)) return 0;
+        Plane other = (Plane) o;
+        return Integer.compare(this.height, other.height);
     }
 }

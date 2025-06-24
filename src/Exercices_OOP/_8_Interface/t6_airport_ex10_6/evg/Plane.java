@@ -17,7 +17,6 @@ public class Plane extends Vehicle {
                 "\nSource = " + source +
                 "\nDestination = " + destination +
                 "\nMax altitude: " + height + "\n------";
-
     }
 
     public int compareTo(Object o) {

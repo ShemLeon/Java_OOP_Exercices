@@ -21,7 +21,7 @@ public class TestAirportInfo
 
 	public static void main(String[] args) 
 	{
-        /*
+
 		Train[] trainList=new Train[5];
 		Plane[] planeList=new Plane[5];
         Random rnd=new Random();
@@ -74,7 +74,7 @@ public class TestAirportInfo
 		//prints the reports of all the trains and planes after move
 		System.out.print(AirportInfo.reportAll(m));
 
-        */
+
 	}
 
 	
