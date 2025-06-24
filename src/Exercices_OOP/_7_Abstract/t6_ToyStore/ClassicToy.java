@@ -10,7 +10,7 @@ public abstract class ClassicToy extends Toy{
     protected int getFillAmount(){
         return this.fillAmount;
     }
-     protected void setFillAmount(int fillAmount){
+    protected void setFillAmount(int fillAmount){
         this.fillAmount = fillAmount;
     }
 }
