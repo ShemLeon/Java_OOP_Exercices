@@ -14,20 +14,16 @@ public class AStudent implements Student {
     public void setGroupGrade(int grade) {
         AStudent.grade = grade;
     }
-
     public int getGroupGrade() {
         return AStudent.grade;
     }
-
     public Teacher getGroupTeacher()
     {
         return AStudent.groupTeacher;
     }
-
     public void setGroupTeacher(Teacher newTeacher) {
         AStudent.groupTeacher = newTeacher;
     }
-
     public boolean hasPermission() {
         return (AStudent.grade > 150) && (AStudent.groupTeacher != null && AStudent.groupTeacher.givePermission(this));
     }

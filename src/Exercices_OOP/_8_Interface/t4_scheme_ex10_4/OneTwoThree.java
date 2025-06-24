@@ -62,5 +62,8 @@ public class OneTwoThree {
         C4 g2 = new C4();       //  7. +
         g1 = g2;                //  7. +
 
+        IOne h1 = new C4();     // 8. +-
+        ITwo h2 = new C2();     // 8. +-
+        // h2=h1;                  // 8. --
     }
 }

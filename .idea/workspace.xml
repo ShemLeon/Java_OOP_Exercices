@@ -4,18 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Interface sort">
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Interface animal">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil2/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil2/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil2/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil2/B1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil2/BigB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil2/Inter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil2/Inter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Sorter/t0_sorter/Sorter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Sorter/t0_sorter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t2_Pnimiya_ex10_3/AStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t2_Pnimiya_ex10_3/AStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t5_nums_ex10_5/Second.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/employee.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/employee.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t1_Product/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t1_Product/DVD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Bat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Bat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t3_animals_ex10_2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_9_Sorter/t0_sorter/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_sorter/Sorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_9_Sorter/t0_sorter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t0_sorter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/Doc1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/Doc1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya_ex10_3/AStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya_ex10_3/AStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya_ex10_3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t2_Pnimiya_ex10_3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t4_scheme_ex10_4/OneTwoThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil1/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/Screenshot_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil1/Screenshot_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t5_nums_ex10_5/targil1/description.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/employee.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/employee.drawio" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,11 +157,14 @@
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_8_Interface\t5_nums_ex10_5" />
+      <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_8_Interface\t5_nums_ex10_5\targil1" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_7_Abstract\t4_Halumot" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_7_Abstract\Evg" />
       <recent name="D:\Ucheba\Exercices_OOP\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exercices_OOP._8_Interface.t5_nums_ex10_5.targil2" />
       <recent name="Ex14_1" />
       <recent name="Exercices_OOP._8_Interface.ex_14_1" />
       <recent name="_2_Murkavim" />
@@ -184,22 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Initial commit">
-      <option name="closed" value="true" />
-      <created>1742767007308</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1742767007308</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Abstract">
-      <option name="closed" value="true" />
-      <created>1743971352314</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1743971352314</updated>
     </task>
     <task id="LOCAL-00005" summary="Abstract">
       <option name="closed" value="true" />
@@ -577,7 +575,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750705652683</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Interface animal">
+      <option name="closed" value="true" />
+      <created>1750710162234</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1750710162234</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Interface animal">
+      <option name="closed" value="true" />
+      <created>1750710170750</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1750710170751</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -600,7 +614,8 @@
     <MESSAGE value="Abstract end" />
     <MESSAGE value="Interface start" />
     <MESSAGE value="Interface sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface sort" />
+    <MESSAGE value="Interface animal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface animal" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
