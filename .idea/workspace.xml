@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Enum start">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/DaysWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/ABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/Directions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/Levels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/MyEnums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/AirportInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/AirportInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/employee.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/employee.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Enum/dugma_enum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Enum/teory/DaysWeek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Enum/teory/TrafficLight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/dugma_enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/DaysWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/_1_DaysWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/TrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/teory/_2_TrafficLight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +91,7 @@
     "Application.Fish.executor": "Run",
     "Application.Kids.executor": "Run",
     "Application.Labrador.executor": "Run",
+    "Application.Levels.executor": "Run",
     "Application.Line.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Mammal.executor": "Run",
@@ -105,6 +112,9 @@
     "Application.Technician.executor": "Run",
     "Application.TeddyBear.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test4.executor": "Debug",
     "Application.TestAirportInfo.executor": "Run",
     "Application.TestReportCard.executor": "Run",
     "Application.Test_Shape.executor": "Run",
@@ -186,22 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Trek">
-      <option name="closed" value="true" />
-      <created>1744058123258</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1744058123258</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Trek">
-      <option name="closed" value="true" />
-      <created>1744063049396</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1744063049396</updated>
     </task>
     <task id="LOCAL-00014" summary="Build nodes">
       <option name="closed" value="true" />
@@ -579,7 +573,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751422851731</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Enum start">
+      <option name="closed" value="true" />
+      <created>1751484123780</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1751484123780</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Enum start">
+      <option name="closed" value="true" />
+      <created>1751484585384</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1751484585384</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

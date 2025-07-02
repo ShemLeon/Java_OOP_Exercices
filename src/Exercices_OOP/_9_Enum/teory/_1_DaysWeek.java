@@ -1,12 +1,12 @@
 package Exercices_OOP._9_Enum.teory;
 
-public enum DaysWeek {
+public enum _1_DaysWeek {
     SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
     THURSDAY, FRIDAY, SATURDAY;
 
     public static void main(String[] args){
-        DaysWeek today = DaysWeek.SUNDAY;
-        if (today == DaysWeek.SUNDAY) System.out.println("Good week!");
+        _1_DaysWeek today = _1_DaysWeek.SUNDAY;
+        if (today == _1_DaysWeek.SUNDAY) System.out.println("Good week!");
         switch (today) {
             case SUNDAY:
                 System.out.println("Good week!");
@@ -17,7 +17,7 @@ public enum DaysWeek {
             default:
                 System.out.println("Good day!");
         }
-        DaysWeek[] days = DaysWeek.values();
+        _1_DaysWeek[] days = _1_DaysWeek.values();
         for(int i = 0; i< days.length; i++) {
             System.out.println(days[i]);
         }
