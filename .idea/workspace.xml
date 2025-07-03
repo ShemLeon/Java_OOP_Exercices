@@ -4,35 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Enum start">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_10_Exception/teory/t1_divByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_10_Exception/teory/t2_group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_10_Exception/teory/t3_div.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_10_Exception/teory/t4_div2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_10_Exception/teory/t5_calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_10_Exception/teory/t5_calculator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/ex13_1_eurovision/AudienceVoted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/ex13_1_eurovision/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/ex13_1_eurovision/JuryVoted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/ex13_1_eurovision/TestEurovision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_9_Enum/ex13_1_eurovision/VoteType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.$WAREHOUSE.drawio.bkp" beforeDir="false" />
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Exceptions">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/_10_Exception/teory/t6_print5/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WAREHOUSE.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/AirportInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/Movable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/Plane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/Train.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Enum/teory/ABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Enum/teory/ABC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Enum/teory/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_9_Enum/teory/Test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/employee.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/AirportInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/Movable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/Plane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/Train.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_8_Interface/t6_airport_ex10_6/evg/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/employee.drawio" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +75,7 @@
     "Application.Duplex.executor": "Run",
     "Application.Employee.executor": "Run",
     "Application.Ex14_1.Main.executor": "Run",
+    "Application.Example.executor": "Run",
     "Application.Exercices_OOP._0_Start.Main.executor": "Run",
     "Application.Exercices_OOP._8_Interface.ex_14_1.Main.executor": "Run",
     "Application.Final_t1.executor": "Run",
@@ -150,6 +125,7 @@
     "Application.t2_group.executor": "Run",
     "Application.t3_div.executor": "Run",
     "Application.t4_div2.executor": "Run",
+    "Application.t6_printFive.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -190,7 +166,20 @@
       <recent name="Exercices_OOP._8_Interface.ex_14_1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercices_OOP._10_Exception.teory.t6_print5.Example" />
+      <module name="Exercices_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercices_OOP._10_Exception.teory.t6_print5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Exercices_OOP" />
@@ -224,6 +213,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.t2_group$Group" />
       </list>
     </recent_temporary>
@@ -236,22 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Build nodes">
-      <option name="closed" value="true" />
-      <created>1744633763461</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1744633763461</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Build nodes">
-      <option name="closed" value="true" />
-      <created>1744643249555</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1744643249555</updated>
     </task>
     <task id="LOCAL-00018" summary="Build nodes">
       <option name="closed" value="true" />
@@ -629,7 +603,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751490402017</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Exceptions">
+      <option name="closed" value="true" />
+      <created>1751545080613</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1751545080613</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Exceptions">
+      <option name="closed" value="true" />
+      <created>1751545086002</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1751545086002</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -655,7 +645,8 @@
     <MESSAGE value="Interface animal" />
     <MESSAGE value="Interface" />
     <MESSAGE value="Enum start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enum start" />
+    <MESSAGE value="Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
