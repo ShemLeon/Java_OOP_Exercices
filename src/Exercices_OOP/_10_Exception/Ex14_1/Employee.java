@@ -1,4 +1,4 @@
-package Ex14_1;
+package Exercices_OOP._10_Exception.Ex14_1;
 
 // מגישים:
 // יבגני נמצ'נקו 321404634
