@@ -1,6 +1,21 @@
 package Exercices_OOP.Mivhan.M_2025a.S10_Doctor;// import unit4.collectionsLib.Node;
 
 public class Test {
+    public static void printNotSameSpec(Doctor[] d){
+        for (int i = 0; i<d.length; i++){
+//            if ( d[i] instanceof Intern){
+//                if (d[i].getSpecialization().compareTo(((Intern)d[i]).getMentor().getSpecialization()) !=0)
+//                    System.out.println(d[i].getName());
+//            }
+            if ( d[i] instanceof Intern){
+                Intern intern;
+                intern = ((Intern) d[i]);
+                if (d[i].getSpecialization().compareTo(intern.getMentor().getSpecialization()) !=0)
+                    System.out.println(d[i].getName());
+            }
+        }
+    }
+
     public static void main(String[] args) {
         Doctor[] d = new Doctor[9];
         d[0] = new Doctor("Dr. Cohen", "Cardiology",12);
@@ -28,5 +43,6 @@ public class Test {
         for (int i=0; i<d.length; i++) {
             System.out.println(i+" _ "+d[i]);
         }
+        printNotSameSpec(d);
     }
 }

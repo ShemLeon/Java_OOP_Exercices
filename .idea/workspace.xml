@@ -5,10 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Intern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S10_AA_AB/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S10_AA_AB/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S10_AA_AB/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S4_Cars/RacingCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Doctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Intern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Intern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/Evg/ClassicToy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/Evg/Dolly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/Evg/RobotToy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/Evg/SmartToy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/Evg/TeddyBear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/Evg/Toy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/_7_Abstract/Evg/ToysTestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Intern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Intern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/ClassicToy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/Dolly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/RobotToy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/SmartToy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/TeddyBear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/Toy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/_7_Abstract/Evg/ToysTestMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +166,7 @@
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Ucheba/Exercices_OOP/src/Exercices_OOP/_8_Interface/t6_airport_ex10_6",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -164,11 +191,11 @@
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_7_Abstract\t4_Halumot" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exercices_OOP.Mivhan.M_2025k.S4_Cars" />
       <recent name="Exercices_OOP.Mivhan.M_2025a.S4_CarMoto" />
       <recent name="Exercices_OOP._9_Enum.ex13_1" />
       <recent name="Exercices_OOP._8_Interface.t6_airport_ex10_6" />
       <recent name="Exercices_OOP._8_Interface.t5_nums_ex10_5.targil2" />
-      <recent name="Ex14_1" />
     </key>
   </component>
   <component name="RunManager">
@@ -231,14 +258,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00021" summary="RobotToy">
-      <option name="closed" value="true" />
-      <created>1745059435890</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1745059435890</updated>
     </task>
     <task id="LOCAL-00022" summary="RobotToy">
       <option name="closed" value="true" />
@@ -624,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751636407623</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Mahat">
+      <option name="closed" value="true" />
+      <created>1751670271659</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1751670271660</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

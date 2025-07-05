@@ -44,4 +44,12 @@ public class Doctor {
     public void setNumOfPatients(int numOfPatients) {
         this.numOfPatients = numOfPatients;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getSpecialization() {
+        return specialization;
+    }
 }

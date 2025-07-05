@@ -18,10 +18,4 @@ public class Intern extends Doctor {
 
     }
 
-
-    public static void main(String[] args) {
-        //
-        System.out.println("Shalom!");
-        //
-    }
 }
