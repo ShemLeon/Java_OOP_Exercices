@@ -1,4 +1,4 @@
-package Exercices_OOP.Mivhan.E2_2025;
+package Exercices_OOP.Mivhan.E1_2025;
 
 
 class Card{
