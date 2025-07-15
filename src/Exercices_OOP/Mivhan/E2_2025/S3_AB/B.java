@@ -25,6 +25,7 @@ public class B extends A {
             return this.st.equals(((B)other).st) && this.getVal()==((B)other).getVal();
         return false;
     }
+
     public boolean equals(B other){
         System.out.println("B-B");
             return this.st.equals(other.st) && this.getVal()==other.getVal();
