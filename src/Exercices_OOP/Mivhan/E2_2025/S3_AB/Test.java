@@ -8,9 +8,10 @@ public class Test {
         B b1 = new B("B", 1);   // b1("B", 1)
         B b2 = new B("B", 3);   // b2("B", 3)
 
-        if (a1.equals(b1)) System.out.println(11);
-        if (b1.equals(a1)) System.out.println(12);
-        if (a1.equals(ab)) System.out.println(13);
-        if (ab.equals(a1)) System.out.println(14); //  "A-Object", 14
+        if (a1.equals(b1)) System.out.println(11); // A-Object 11
+        if (b1.equals(a1)) System.out.println(12); // B-A
+        if (a1.equals(ab)) System.out.println(13); // A-Object 13
+        if (ab.equals(a1)) System.out.println(14); // B-Object
+        if (b1.equals(ab)) System.out.println(15);
     }
 }

@@ -5,36 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S1/S1_4_Stam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S1/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S1/Y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S1/iii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Figure2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Rotatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/TestGimel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S3_AB/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S3_AB/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S3_AB/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/Cards.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/Goblin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S10_AA_AB/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S10_AA_AB/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S10_AA_AB/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Bus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Motorcycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S4_Cars/RacingCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Truck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2025k/S4_Cars/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/S3_AB/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/S3_AB/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S3_AB/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S3_AB/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S3_AB/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S3_AB/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,22 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Interface&#10;TV">
-      <option name="closed" value="true" />
-      <created>1745495348604</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1745495348604</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Interface&#10;TV">
-      <option name="closed" value="true" />
-      <created>1745698599874</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1745698599874</updated>
     </task>
     <task id="LOCAL-00028" summary="Interface&#10;TV">
       <option name="closed" value="true" />
@@ -667,7 +625,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752438505799</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Mahat">
+      <option name="closed" value="true" />
+      <created>1752595284648</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1752595284648</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Mahat">
+      <option name="closed" value="true" />
+      <created>1752595289540</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1752595289540</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
