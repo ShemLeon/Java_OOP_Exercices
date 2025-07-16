@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021" />
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S4_AB/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S4_AB/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S4_AB/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S5_AB/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S5_AB/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S5_AB/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S6_Banana/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S6_Banana/Banana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +142,7 @@
     "Application.t3_div.executor": "Run",
     "Application.t4_div2.executor": "Run",
     "Application.t6_printFive.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -139,7 +150,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Ucheba/Exercices_OOP/src/Exercices_OOP/_8_Interface/t6_airport_ex10_6",
+    "last_opened_file_path": "D:/Ucheba/Exercices_OOP/src/Exercices_OOP/Mivhan/M_2021A/S5_AB",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -151,11 +162,11 @@
       <recent name="Exercices_OOP._8_Interface.t2_Pnimiya" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\Mivhan\M_2021A\S5_AB" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_8_Interface\t6_airport_ex10_6" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_1_OverLoading" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Ex14_1" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_8_Interface\t4_scheme_ex10_4" />
-      <recent name="D:\Ucheba\Exercices_OOP\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\Mivhan\M_2025KA\S7_eBooks" />
@@ -219,6 +230,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercices_OOP.Mivhan.M_2021A.S5_AB.test" />
+      <module name="Exercices_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercices_OOP.Mivhan.M_2021A.S5_AB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java_OOP_Exercices" />
       <method v="2">
@@ -232,6 +256,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.TestGimel" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.t2_group$Group" />
@@ -246,14 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00033" summary="схема 10_4">
-      <option name="closed" value="true" />
-      <created>1747744216660</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1747744216660</updated>
     </task>
     <task id="LOCAL-00034" summary="схема 10_4">
       <option name="closed" value="true" />
@@ -639,7 +656,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752681128867</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1752691619464</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1752691619465</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
