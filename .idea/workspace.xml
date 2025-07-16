@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S1_TabletHanut/OperatingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S1_TabletHanut/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S1_TabletHanut/Tablet.java" afterDir="false" />
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S1_TabletHanut/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/S3_AB/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/S3_AB/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S1_Hanut/OperatingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S1_Hanut/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S1_Hanut/Tablet.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +81,7 @@
     "Application.Counter.executor": "Run",
     "Application.DaysWeek.executor": "Run",
     "Application.Dog.executor": "Run",
+    "Application.Dress.executor": "Run",
     "Application.Drive.executor": "Run",
     "Application.Duplex.executor": "Run",
     "Application.Employee.executor": "Run",
@@ -148,7 +154,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -251,22 +257,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Animals ex10">
-      <option name="closed" value="true" />
-      <created>1747697485673</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1747697485673</updated>
-    </task>
-    <task id="LOCAL-00031" summary="схема 10_4">
-      <option name="closed" value="true" />
-      <created>1747742302519</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1747742302519</updated>
     </task>
     <task id="LOCAL-00032" summary="схема 10_4">
       <option name="closed" value="true" />
@@ -644,7 +634,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752620453043</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1752675415091</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1752675415091</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1752675754522</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1752675754522</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -672,7 +678,8 @@
     <MESSAGE value="Enum start" />
     <MESSAGE value="Exceptions" />
     <MESSAGE value="Mahat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mahat" />
+    <MESSAGE value="Mahat 2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mahat 2021" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
