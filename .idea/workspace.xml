@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S6_Banana/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B2_Coach/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B2_Coach/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B2_Coach/TestEx2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,11 +177,11 @@
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_8_Interface\t5_nums_ex10_5\targil1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exercices_OOP.Mivhan.E2_2025.B1_ABCDE" />
       <recent name="Exercices_OOP.Mivhan.E2_2025.S3_AB" />
       <recent name="Exercices_OOP.Mivhan.E2_2025.S2_Painter" />
       <recent name="Exercices_OOP.Mivhan.M_2025KA.S7_eBooks" />
       <recent name="Exercices_OOP.Mivhan.M_2025k.S4_Cars" />
-      <recent name="Exercices_OOP.Mivhan.M_2025a.S4_CarMoto" />
     </key>
   </component>
   <component name="RunManager">
@@ -264,14 +272,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00035" summary="схема 10_4">
-      <option name="closed" value="true" />
-      <created>1749851469685</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1749851469685</updated>
     </task>
     <task id="LOCAL-00036" summary="10.5 ex">
       <option name="closed" value="true" />
@@ -657,7 +657,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752707087673</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1752785583993</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1752785583993</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
