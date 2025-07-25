@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B1_ABCDE/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B2_Coach/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B2_Coach/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B2_Coach/TestEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,6 +112,7 @@
     &quot;Application.Test4.executor&quot;: &quot;Debug&quot;,
     &quot;Application.TestAirportInfo.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestEurovision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestEx2.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestGimel.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestReportCard.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test_Shape.executor&quot;: &quot;Run&quot;,
@@ -184,7 +174,7 @@
       <recent name="Exercices_OOP.Mivhan.M_2025k.S4_Cars" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercices_OOP._10_Exception.teory.t6_print5.Example" />
       <module name="Exercices_OOP" />
@@ -272,14 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00036" summary="10.5 ex">
-      <option name="closed" value="true" />
-      <created>1749852650001</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1749852650001</updated>
     </task>
     <task id="LOCAL-00037" summary="Ex14_1">
       <option name="closed" value="true" />
@@ -665,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752785583993</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1753397108331</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1753397108331</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
