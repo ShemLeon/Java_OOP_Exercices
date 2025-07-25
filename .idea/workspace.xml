@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021" />
+    <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021">
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B3_Movies/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mahat.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Mahat.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ekz_2025_II.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ekz_2025_II.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$Mahat.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$Mahat.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +180,7 @@
       <recent name="Exercices_OOP.Mivhan.M_2025k.S4_Cars" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercices_OOP._10_Exception.teory.t6_print5.Example" />
       <module name="Exercices_OOP" />
@@ -262,14 +268,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Ex14_1">
-      <option name="closed" value="true" />
-      <created>1749912975301</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1749912975301</updated>
     </task>
     <task id="LOCAL-00038" summary="Ex14_1">
       <option name="closed" value="true" />
@@ -655,7 +653,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753397108331</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1753431887183</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1753431887183</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
