@@ -5,11 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/B3_Movies/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S8_IntList/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/O/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S10_AA_AB/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S10_AA_AB/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S10_AA_AB/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/RacingCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/AudioBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/EBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/GiftEBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/IDownloadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/IGiftable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/PaperBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leo_bad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Leo_bad.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mahat.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Mahat.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ekz_2025_II.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ekz_2025_II.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$Mahat.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$Mahat.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,116 +82,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AirportInfo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Animal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bird.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boxer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bucket.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BucketTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Building.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarShop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChessAlgorithm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassMember.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Company.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Counter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DaysWeek.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dress.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Drive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Duplex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex14_1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercices_OOP._0_Start.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercices_OOP._8_Interface.ex_14_1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Final_t1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fish.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Intern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Kids.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Labrador.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Levels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Line.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mammal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Message.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OneTwoThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Personn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pixel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Point.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Product.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProjectSupervisor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Record.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rect.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RegularEmployee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RobotToy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shhape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stam.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Store.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tablet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Technician.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TeddyBear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test4.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TestAirportInfo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestEurovision.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestGimel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestReportCard.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Shape.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Testabstract.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Toy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToysTestMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Trek.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrekTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnionMember.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XYZ.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Zoo.executor&quot;: &quot;Run&quot;,
-    &quot;Application._7_Abstract.t3_TestAbstract.Testabstract.executor&quot;: &quot;Run&quot;,
-    &quot;Application.iii.executor&quot;: &quot;Run&quot;,
-    &quot;Application.t1_divByZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.t2_group$Group.executor&quot;: &quot;Run&quot;,
-    &quot;Application.t2_group.executor&quot;: &quot;Run&quot;,
-    &quot;Application.t3_div.executor&quot;: &quot;Run&quot;,
-    &quot;Application.t4_div2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.t6_printFive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Ucheba/Exercices_OOP/src/Exercices_OOP/Mivhan/M_2021A/S5_AB&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AB.executor": "Run",
+    "Application.AirportInfo.executor": "Run",
+    "Application.Animal.executor": "Run",
+    "Application.Bat.executor": "Run",
+    "Application.Bird.executor": "Run",
+    "Application.Boxer.executor": "Run",
+    "Application.Bucket.executor": "Run",
+    "Application.BucketTest.executor": "Run",
+    "Application.Building.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.CarShop.executor": "Run",
+    "Application.CastTest.executor": "Run",
+    "Application.ChessAlgorithm.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.ClassMember.executor": "Run",
+    "Application.Clock.executor": "Run",
+    "Application.Company.executor": "Run",
+    "Application.Counter.executor": "Run",
+    "Application.DaysWeek.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.Dress.executor": "Run",
+    "Application.Drive.executor": "Run",
+    "Application.Duplex.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Ex14_1.Main.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.Exercices_OOP._0_Start.Main.executor": "Run",
+    "Application.Exercices_OOP._8_Interface.ex_14_1.Main.executor": "Run",
+    "Application.Final_t1.executor": "Run",
+    "Application.Fish.executor": "Run",
+    "Application.IntList.executor": "Run",
+    "Application.Intern.executor": "Run",
+    "Application.Kids.executor": "Run",
+    "Application.Labrador.executor": "Run",
+    "Application.Levels.executor": "Run",
+    "Application.Line.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Mammal.executor": "Run",
+    "Application.Message.executor": "Run",
+    "Application.OneTwoThree.executor": "Run",
+    "Application.Personn.executor": "Run",
+    "Application.Pixel.executor": "Run",
+    "Application.Point.executor": "Run",
+    "Application.Product.executor": "Run",
+    "Application.ProjectSupervisor.executor": "Run",
+    "Application.Record.executor": "Run",
+    "Application.Rect.executor": "Run",
+    "Application.RegularEmployee.executor": "Run",
+    "Application.RobotToy.executor": "Run",
+    "Application.Shape.executor": "Run",
+    "Application.Shhape.executor": "Run",
+    "Application.Stam.executor": "Run",
+    "Application.Store.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.Tablet.executor": "Run",
+    "Application.Technician.executor": "Run",
+    "Application.TeddyBear.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test4.executor": "Debug",
+    "Application.TestAirportInfo.executor": "Run",
+    "Application.TestEurovision.executor": "Run",
+    "Application.TestEx2.executor": "Run",
+    "Application.TestGimel.executor": "Run",
+    "Application.TestReportCard.executor": "Run",
+    "Application.Test_Shape.executor": "Run",
+    "Application.Testabstract.executor": "Run",
+    "Application.Toy.executor": "Run",
+    "Application.ToysTestMain.executor": "Run",
+    "Application.TrafficLight.executor": "Run",
+    "Application.Trek.executor": "Run",
+    "Application.TrekTest.executor": "Run",
+    "Application.UnionMember.executor": "Run",
+    "Application.XYZ.executor": "Run",
+    "Application.Zoo.executor": "Run",
+    "Application._7_Abstract.t3_TestAbstract.Testabstract.executor": "Run",
+    "Application.iii.executor": "Run",
+    "Application.t1_divByZero.executor": "Run",
+    "Application.t2_group$Group.executor": "Run",
+    "Application.t2_group.executor": "Run",
+    "Application.t3_div.executor": "Run",
+    "Application.t4_div2.executor": "Run",
+    "Application.t6_printFive.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Ucheba/Exercices_OOP/src/Exercices_OOP/Mivhan/O_cast",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Exercices_OOP._8_Interface.t2_Pnimiya" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\Mivhan\O_cast" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\Mivhan\M_2021A\S5_AB" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_8_Interface\t6_airport_ex10_6" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_1_OverLoading" />
       <recent name="D:\Ucheba\Exercices_OOP\src\Ex14_1" />
-      <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\_8_Interface\t4_scheme_ex10_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Ucheba\Exercices_OOP\src\Exercices_OOP\Mivhan\M_2025KA\S7_eBooks" />
@@ -268,22 +298,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Ex14_1">
-      <option name="closed" value="true" />
-      <created>1750421310266</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1750421310266</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Ex14_1">
-      <option name="closed" value="true" />
-      <created>1750422527746</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1750422527746</updated>
     </task>
     <task id="LOCAL-00040" summary="Erusha Dog">
       <option name="closed" value="true" />
@@ -661,7 +675,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753431887183</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1753483902642</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1753483902643</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1753483907957</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1753483907957</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

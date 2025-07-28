@@ -3,10 +3,6 @@ package Exercices_OOP.Mivhan.M_2025a.S10_Doctor;// import unit4.collectionsLib.N
 public class Test {
     public static void printNotSameSpec(Doctor[] d){
         for (int i = 0; i<d.length; i++){
-//            if ( d[i] instanceof Intern){
-//                if (d[i].getSpecialization().compareTo(((Intern)d[i]).getMentor().getSpecialization()) !=0)
-//                    System.out.println(d[i].getName());
-//            }
             if ( d[i] instanceof Intern){
                 Intern intern;
                 intern = ((Intern) d[i]);
