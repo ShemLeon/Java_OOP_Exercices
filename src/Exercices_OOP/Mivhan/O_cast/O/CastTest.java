@@ -48,7 +48,7 @@ public class CastTest {
         // Janitor j1 = (Janitor) s2; // ОШИБКА КОМПИЛЯЦИИ: Inconvertible types
 
         // 12. Попытка Downcasting от интерфейса к классу, который его не реализует
-        // Workable w3 = new Janitor("Niaj", 111);
+        Workable w3 = new Janitor("Niaj", 111);
         // Student s3 = (Student) w3; // ОШИБКА КОМПИЛЯЦИИ: Janitor не может быть Student
 
         // 13. Попытка создать экземпляр абстрактного класса

@@ -5,39 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab68b846-bc5d-4b36-ae7e-731caf4a0767" name="Changes" comment="Mahat 2021">
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S8_IntList/IntList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/O/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S10_AA_AB/AA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S10_AA_AB/BB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S10_AA_AB/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/RacingCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S4_Cars/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/EBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/GiftEBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/IDownloadable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/IGiftable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/S7_eBooks/PaperBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leo_bad.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Leo_bad.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mahat.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Mahat.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ekz_2025_II.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ekz_2025_II.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/E2_2025/S2_Painter/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Clothes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Dress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2021A/S3_DressCompany/Shirt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/M_2025a/S10_Doctor/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/O_cast/O/CastTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercices_OOP/Exercices_OOP/Mivhan/O_cast/O/CastTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/O/CastTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices_OOP/Mivhan/O_cast/O/CastTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,22 +269,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742766168112</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Erusha Dog">
-      <option name="closed" value="true" />
-      <created>1750466153623</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1750466153623</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Erusha Dog">
-      <option name="closed" value="true" />
-      <created>1750466160859</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1750466160859</updated>
     </task>
     <task id="LOCAL-00042" summary="Erusha Dog">
       <option name="closed" value="true" />
@@ -691,7 +646,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753483907957</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1753708381963</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1753708381964</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Mahat 2021">
+      <option name="closed" value="true" />
+      <created>1753708388560</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1753708388560</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
