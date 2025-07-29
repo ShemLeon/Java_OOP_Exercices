@@ -120,5 +120,151 @@ public class CastTest {
 
         // 27. instanceof с null всегда false
         System.out.println("null instanceof Student: " + (p_null instanceof Student)); // Выведет false
+
+        // ===================================================================================
+        // ===            АНАЛИЗ ПРИМЕРОВ СО СКРИНШОТОВ С ИЕРАРХИЕЙ PERSON             ===
+        // ===================================================================================
+        System.out.println("\n\n--- Person Hierarchy Examples (from screenshots) ---\n");
+
+        // --- Аналог ЧАСТИ А: Функция подсчета ---
+        System.out.println("--- Аналог Части А: Подсчет учителей (Teacher) ---");
+        Person[] peopleForCount = {
+            new Student("Alice", 101),
+            new Teacher("Bob", 707, "Math"),
+            new Janitor("Charlie", 202),
+            new Teacher("Diana", 808, "Physics"),
+            new GradStud("Eve", 303, "AI")
+        };
+
+        int teacherCount = countSpecialTeachers(peopleForCount);
+        // Ожидаемый результат: 1 (Учитель Diana с ID > 800)
+        System.out.println("Найдено учителей с ID > 800: " + teacherCount);
+        System.out.println("-----------------------------------------\n");
+
+        // --- Аналог ЧАСТИ Б: Анализ выражений ---
+        System.out.println("--- Аналог Части Б: Анализ выражений ---\n");
+        Student s10 = new Student("Frank", 123);
+        Person p11 = new Student("Frank", 123); // Upcasting
+        Teacher t13 = new Teacher("Grace", 456, "History");
+        Person p14 = new Teacher("Grace", 456, "History"); // Upcasting
+        GradStud gs15 = new GradStud("Harry", 123, "Robotics");
+
+        // Аналог 11) Доступ к приватному полю
+        System.out.println("Аналог 11) s10.id");
+        System.out.println("   Тип ошибки: ОШИБКА КОМПИЛЯЦИИ.");
+        System.out.println("   Объяснение: Поле 'id' в классе Student приватное (private) и недоступно извне.\n");
+        // System.out.println(s10.id); // <- Эта строка не скомпилируется
+
+        // Аналог 12) Некорректное приведение типа
+        System.out.println("Аналог 12) (Teacher)p11");
+        System.out.println("   Тип ошибки: ОШИБКА ВЫПОЛНЕНИЯ (RuntimeException - ClassCastException).");
+        try {
+            Teacher temp = (Teacher) p11;
+        } catch (ClassCastException e) {
+            System.out.println("   Объяснение: Объект p11 по факту является Student. Student нельзя привести к Teacher.\n");
+        }
+
+        // Аналог 13) s10.equals(p11)
+        System.out.println("Аналог 13) s10.equals(p11)");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        // Тип p11 - Person. В классе Student НЕТ метода equals(Object).
+        // Java ищет `equals(Object)` и находит его в классе Object. Он сравнивает ссылки.
+        boolean res13_b = s10.equals(p11);
+        System.out.println("   Результат: " + res13_b + " (вызван Object.equals, т.к. в Student НЕТ переопределения equals(Object), ссылки разные)\n");
+
+        // Аналог 14) p11.equals(s10)
+        System.out.println("Аналог 14) p11.equals(s10)");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        // Ссылка p11 имеет тип Person. Вызывается Object.equals().
+        boolean res14_b = p11.equals(s10);
+        System.out.println("   Результат: " + res14_b + " (вызван Object.equals, ссылки разные)\n");
+
+        // Аналог 15) t13.equals(p14)
+        System.out.println("Аналог 15) t13.equals(p14)");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        // Вызывается переопределенный Teacher.equals(Object). Тип p14 - Teacher, сравнение полей даст true.
+        boolean res15_b = t13.equals(p14);
+        System.out.println("   Результат: " + res15_b + " (вызван переопределенный Teacher.equals)\n");
+
+        // Аналог 16) p14.equals(t13)
+        System.out.println("Аналог 16) p14.equals(t13)");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        // Полиморфизм! Реальный объект - Teacher. Вызывается его переопределенный метод.
+        boolean res16_b = p14.equals(t13);
+        System.out.println("   Результат: " + res16_b + " (полиморфный вызов Teacher.equals)\n");
+
+        // Аналог 17) Вызов с несовместимым типом
+        System.out.println("Аналог 17) s10.equals(t13)");
+        System.out.println("   Тип ошибки: ОШИБКА КОМПИЛЯЦИИ.");
+        System.out.println("   Объяснение: У класса Student есть equals(Student) и он наследует equals(Object). Вызов с аргументом Teacher не подходит к equals(Student). Компилятор мог бы выбрать equals(Object), но не делает этого, чтобы предотвратить потенциальные ошибки с несвязанными типами.\n");
+        // boolean res17_b = s10.equals(t13); // <- Эта строка не скомпилируется
+
+        // Аналог 18) s10.equals((Student)p11)
+        System.out.println("Аналог 18) s10.equals((Student)p11)");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        // Явное приведение аргумента к Student. Компилятор находит ПЕРЕГРУЖЕННЫЙ метод equals(Student).
+        boolean res18_b = s10.equals((Student) p11);
+        System.out.println("   Результат: " + res18_b + " (вызван перегруженный Student.equals(Student))\n");
+
+        // Аналог 19) t13.equals(p11)
+        System.out.println("Аналог 19) t13.equals(p11)");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        // Вызывается Teacher.equals(Object). Внутри него 'p11 instanceof Teacher' вернет false.
+        boolean res19_b = t13.equals(p11);
+        System.out.println("   Результат: " + res19_b + " (внутри Teacher.equals проверка 'p11 instanceof Teacher' -> false)\n");
+
+        // Аналог 20) t13.equals((Teacher)p11)
+        System.out.println("Аналог 20) t13.equals((Teacher)p11)");
+        System.out.println("   Тип ошибки: ОШИБКА ВЫПОЛНЕНИЯ (RuntimeException - ClassCastException).");
+        System.out.println("   Объяснение: Ошибка происходит при вычислении аргумента (касте), до вызова equals.\n");
+        try {
+            t13.equals((Teacher)p11);
+        } catch (ClassCastException e) {
+            // Этот блок поймает ошибку
+        }
+        
+        // --- Дополнительные тесты ---
+        System.out.println("--- Дополнительные тесты иерархии ---\n");
+        
+        // Сравнение Student и GradStud
+        System.out.println("Тест: s10.equals(gs15)");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        // Вызывается Object.equals, т.к. нет s10.equals(GradStud) и нет переопределенного s10.equals(Object).
+        boolean res_s_gs = s10.equals(gs15);
+        System.out.println("   Результат: " + res_s_gs + " (вызван Object.equals)\n");
+
+        System.out.println("Тест: gs15.equals(s10)");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        // Вызывается GradStud.equals(Object). Внутри него 's10 instanceof GradStud' вернет false.
+        boolean res_gs_s = gs15.equals(s10);
+        System.out.println("   Результат: " + res_gs_s + " (внутри GradStud.equals 's10 instanceof GradStud' -> false)\n");
+        
+        // Работа с интерфейсами
+        System.out.println("Тест: Приведение интерфейсов на объекте Teacher");
+        System.out.println("   Тип ошибки: НЕТ ОШИБКИ.");
+        Learnable l10 = t13; // Upcast к первому интерфейсу
+        l10.study();
+        // Можно ли от одного интерфейса перейти к другому? Да, если класс реализует оба.
+        Workable w10 = (Workable) l10; // Каст к другому интерфейсу
+        w10.work();
+        System.out.println("   Приведение Learnable -> Workable для Teacher прошло успешно.\n");
+    }
+
+    /**
+     * Вспомогательный метод (аналог функции из Части А на скриншоте).
+     * Возвращает количество учителей с ID сотрудника > 800.
+     */
+    public static int countSpecialTeachers(Person[] persons) {
+        int count = 0;
+        for (Person p : persons) {
+            // Проверяем, является ли объект Учителем (или его подклассом)
+            if (p instanceof Teacher) {
+                Teacher t = (Teacher) p; // Безопасное приведение типа (Downcasting)
+                if (t.getEmployeeId() > 800) {
+                    count++;
+                }
+            }
+        }
+        return count;
     }
 }

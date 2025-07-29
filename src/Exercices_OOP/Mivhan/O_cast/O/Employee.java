@@ -6,6 +6,9 @@ public class Employee extends Person implements Workable {
         super(name);
         this.empId = empId;
     }
+    public int getEmployeeId() {
+        return empId;
+    }
     @Override
     public void work() {
         System.out.println(name + " is working.");
